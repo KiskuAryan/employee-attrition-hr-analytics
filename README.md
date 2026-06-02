@@ -186,9 +186,9 @@ Open `dashboard/hr.pbix` in Power BI Desktop and refresh data source to your loc
 
 ##  Author
 
-**Your Name**  
+**Aryan Chintaman Manjhi**  
 Aspiring Data Analyst  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) • [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/aryan-chintaman-manjhi-141a62303/) • [GitHub](https://github.com/KiskuAryan)
 
 ---
 

@@ -1,0 +1,1471 @@
+EmployeeNumber,Department,JobRole,MonthlyIncome,OverTime,YearsAtCompany,JobSatisfaction,WorkLifeBalance,Churn_Probability,Risk_Tier,Replacement_Cost,Attrition
+1,Sales,Sales Executive,5993,Yes,6,4,1,0.651646142361841, High Risk,35958,Yes
+2,Research & Development,Research Scientist,5130,No,10,2,3,0.0719356874573887, Low Risk,30780,No
+4,Research & Development,Laboratory Technician,2090,Yes,0,3,3,0.34802800390316174, Medium Risk,12540,Yes
+5,Research & Development,Research Scientist,2909,Yes,8,3,3,0.360883482817852, Medium Risk,17454,No
+7,Research & Development,Laboratory Technician,3468,No,2,2,3,0.21255006555220476, Low Risk,20808,No
+8,Research & Development,Laboratory Technician,3068,No,7,4,2,0.07589961823222084, Low Risk,18408,No
+10,Research & Development,Laboratory Technician,2670,Yes,1,1,2,0.1248935559421656, Low Risk,16020,No
+11,Research & Development,Laboratory Technician,2693,No,1,3,3,0.24532908937320688, Low Risk,16158,No
+12,Research & Development,Manufacturing Director,9526,No,9,3,3,0.09451284545504578, Low Risk,57156,No
+13,Research & Development,Healthcare Representative,5237,No,7,3,2,0.04037286433553865, Low Risk,31422,No
+14,Research & Development,Laboratory Technician,2426,No,5,2,3,0.16771212906327534, Low Risk,14556,No
+15,Research & Development,Laboratory Technician,4193,Yes,9,3,3,0.1704807049898389, Low Risk,25158,No
+16,Research & Development,Research Scientist,2911,No,5,3,2,0.10198708696317359, Low Risk,17466,No
+18,Research & Development,Laboratory Technician,2661,No,2,4,3,0.10207256129945641, Low Risk,15966,No
+19,Research & Development,Laboratory Technician,2028,Yes,4,3,3,0.8136233651180195, High Risk,12168,Yes
+20,Research & Development,Manufacturing Director,9980,No,10,1,3,0.08098221859439846, Low Risk,59880,No
+21,Research & Development,Research Scientist,3298,Yes,6,2,2,0.22835445307078012, Low Risk,19788,No
+22,Research & Development,Laboratory Technician,2935,Yes,1,4,2,0.3703339953594537, Medium Risk,17610,No
+23,Sales,Manager,15427,No,25,4,3,0.06856344221199205, Low Risk,92562,No
+24,Research & Development,Research Scientist,3944,Yes,3,4,3,0.18663485967719107, Low Risk,23664,No
+26,Research & Development,Manufacturing Director,4011,No,4,3,2,0.0739167310783399, Low Risk,24066,No
+27,Sales,Sales Representative,3407,No,5,1,3,0.6105347964114045, High Risk,20442,Yes
+28,Research & Development,Research Director,11994,No,12,2,3,0.06813925464249468, Low Risk,71964,No
+30,Research & Development,Research Scientist,1232,No,0,4,3,0.30717304473278545, Medium Risk,7392,No
+31,Research & Development,Research Scientist,2960,No,4,1,3,0.2225356144825654, Low Risk,17760,Yes
+32,Research & Development,Manager,19094,No,14,3,2,0.03177593428815889, Low Risk,114564,No
+33,Research & Development,Research Scientist,3919,Yes,10,1,3,0.6983136020744632, High Risk,23514,Yes
+35,Sales,Sales Executive,6825,No,9,2,3,0.12894092688395564, Low Risk,40950,No
+36,Research & Development,Healthcare Representative,10248,No,22,4,3,0.07146169821318064, Low Risk,61488,No
+38,Sales,Manager,18947,No,2,1,2,0.07908925614570095, Low Risk,113682,No
+39,Research & Development,Laboratory Technician,2496,No,1,4,3,0.1641768950805173, Low Risk,14976,No
+40,Research & Development,Healthcare Representative,6465,Yes,4,4,4,0.08419011215203659, Low Risk,38790,No
+41,Research & Development,Laboratory Technician,2206,No,10,3,3,0.15307423209646942, Low Risk,13236,No
+42,Sales,Sales Representative,2086,No,1,4,4,0.6773557995959689, High Risk,12516,Yes
+45,Research & Development,Research Scientist,2293,Yes,2,4,2,0.725039549509952, High Risk,13758,Yes
+46,Research & Development,Research Scientist,2645,No,5,3,2,0.04129129444627158, Low Risk,15870,No
+47,Sales,Sales Representative,2683,Yes,3,3,3,0.2823998561047094, Low Risk,16098,Yes
+49,Sales,Sales Representative,2014,No,2,4,3,0.15876126486349187, Low Risk,12084,No
+51,Research & Development,Research Scientist,3419,Yes,1,1,4,0.22113584703103673, Low Risk,20514,No
+52,Sales,Sales Executive,5376,No,5,1,3,0.05582859914655161, Low Risk,32256,No
+53,Research & Development,Laboratory Technician,1951,No,1,4,3,0.145387176859949, Low Risk,11706,No
+54,Research & Development,Laboratory Technician,2341,No,1,1,3,0.3737948398977426, Medium Risk,14046,No
+55,Research & Development,Laboratory Technician,2293,No,1,3,2,0.744251866391644, High Risk,13758,Yes
+56,Sales,Sales Executive,8726,No,9,3,3,0.10149031739820051, Low Risk,52356,No
+57,Research & Development,Laboratory Technician,4011,No,12,4,3,0.0950649293943823, Low Risk,24066,No
+58,Research & Development,Research Director,19545,No,22,3,3,0.09747149317498127, Low Risk,117270,Yes
+60,Sales,Sales Executive,4568,No,9,3,3,0.1572680034764565, Low Risk,27408,No
+61,Research & Development,Research Scientist,3022,No,1,2,3,0.2406000655545305, Low Risk,18132,No
+62,Sales,Sales Executive,5772,Yes,9,4,3,0.19134073230687765, Low Risk,34632,No
+63,Research & Development,Laboratory Technician,2269,No,1,4,3,0.1759824941975195, Low Risk,13614,No
+64,Research & Development,Laboratory Technician,5381,Yes,1,3,3,0.6728037056617272, High Risk,32286,Yes
+65,Research & Development,Laboratory Technician,3441,Yes,2,3,2,0.7729590370144618, High Risk,20646,Yes
+68,Sales,Sales Executive,5454,Yes,4,1,2,0.08069722129609219, Low Risk,32724,No
+70,Research & Development,Healthcare Representative,9884,Yes,4,1,3,0.1442216850536098, Low Risk,59304,No
+72,Sales,Sales Executive,4157,Yes,2,4,2,0.20531252199528793, Low Risk,24942,No
+73,Research & Development,Research Director,13458,Yes,15,4,3,0.09728235733779429, Low Risk,80748,No
+74,Sales,Sales Executive,9069,No,9,1,2,0.09608490237266576, Low Risk,54414,No
+75,Research & Development,Laboratory Technician,4014,Yes,2,1,3,0.18060625900151192, Low Risk,24084,No
+76,Research & Development,Laboratory Technician,5915,No,7,4,2,0.06320955008980307, Low Risk,35490,No
+77,Research & Development,Manufacturing Director,5993,No,7,3,4,0.061185772793359995, Low Risk,35958,No
+78,Research & Development,Manufacturing Director,6162,Yes,9,4,3,0.09738957825676459, Low Risk,36972,No
+79,Research & Development,Laboratory Technician,2406,No,10,4,3,0.1055204067065945, Low Risk,14436,No
+80,Research & Development,Research Director,18740,Yes,27,3,2,0.04123492996821665, Low Risk,112440,No
+81,Sales,Sales Executive,7637,No,21,1,2,0.12300234247896251, Low Risk,45822,No
+83,Research & Development,Healthcare Representative,10096,No,17,3,3,0.039159153659968214, Low Risk,60576,No
+84,Research & Development,Manager,14756,Yes,5,3,3,0.039137304002342464, Low Risk,88536,No
+85,Research & Development,Manufacturing Director,6499,No,6,2,3,0.13874494169458798, Low Risk,38994,No
+86,Research & Development,Research Scientist,9724,No,1,1,3,0.08028653092711219, Low Risk,58344,No
+88,Research & Development,Research Scientist,2194,No,3,1,2,0.07763180516296106, Low Risk,13164,No
+90,Research & Development,Research Scientist,3388,Yes,1,3,2,0.26441806163075054, Low Risk,20328,Yes
+91,Sales,Sales Executive,5473,No,4,3,2,0.19905382792541018, Low Risk,32838,No
+94,Research & Development,Research Scientist,2703,No,5,2,3,0.05270744446365084, Low Risk,16218,No
+95,Research & Development,Research Scientist,2501,No,1,2,3,0.21904576888092808, Low Risk,15006,No
+96,Research & Development,Research Scientist,6220,No,10,2,3,0.052107601141900065, Low Risk,37320,No
+97,Research & Development,Laboratory Technician,3038,No,1,4,3,0.1186552688003378, Low Risk,18228,No
+98,Research & Development,Manufacturing Director,4424,No,11,4,3,0.10002935741584075, Low Risk,26544,No
+100,Sales,Sales Executive,4312,No,15,1,3,0.10160535832232515, Low Risk,25872,No
+101,Research & Development,Research Director,13245,Yes,0,1,4,0.09125008032435016, Low Risk,79470,No
+102,Research & Development,Research Director,13664,No,5,3,4,0.10951133215413318, Low Risk,81984,No
+103,Human Resources,Human Resources,5021,Yes,4,2,3,0.0697868134440002, Low Risk,30126,No
+104,Research & Development,Laboratory Technician,5126,Yes,10,4,2,0.06909929129965453, Low Risk,30756,No
+105,Research & Development,Research Scientist,2859,No,6,3,3,0.10087115767838217, Low Risk,17154,No
+106,Sales,Sales Executive,10239,No,1,4,3,0.1424194263816882, Low Risk,61434,No
+107,Research & Development,Research Scientist,5329,Yes,13,4,3,0.06918530955811274, Low Risk,31974,No
+110,Research & Development,Manufacturing Director,4325,No,5,2,3,0.11993898096566075, Low Risk,25950,No
+112,Research & Development,Manufacturing Director,7260,No,6,4,2,0.12668664471366692, Low Risk,43560,No
+113,Sales,Sales Representative,2322,No,0,1,3,0.25829640792013303, Low Risk,13932,No
+116,Research & Development,Laboratory Technician,2075,No,4,4,3,0.08217360485424993, Low Risk,12450,No
+117,Research & Development,Healthcare Representative,4152,No,11,4,3,0.049249461126298764, Low Risk,24912,No
+118,Sales,Sales Executive,9619,No,9,4,3,0.5422117563507013, Medium Risk,57714,Yes
+119,Research & Development,Healthcare Representative,13503,No,22,2,2,0.0264042817384378, Low Risk,81018,No
+120,Sales,Sales Executive,5441,Yes,10,4,1,0.21326614069932745, Low Risk,32646,No
+121,Sales,Sales Executive,5209,Yes,11,2,2,0.0449468552684805, Low Risk,31254,No
+124,Research & Development,Healthcare Representative,10673,Yes,10,1,2,0.053225002534733855, Low Risk,64038,No
+125,Sales,Sales Executive,5010,No,11,3,3,0.13924548483742905, Low Risk,30060,No
+126,Research & Development,Research Director,13549,No,4,3,1,0.059756188816049584, Low Risk,81294,No
+128,Sales,Sales Executive,4999,No,3,3,2,0.09422983259291097, Low Risk,29994,No
+129,Sales,Sales Executive,4221,No,5,3,4,0.12364336886743364, Low Risk,25326,No
+131,Sales,Sales Executive,13872,No,37,3,2,0.14186431572778593, Low Risk,83232,No
+132,Research & Development,Laboratory Technician,2042,No,3,2,4,0.07605042087462213, Low Risk,12252,No
+133,Human Resources,Human Resources,2073,Yes,3,1,3,0.7157607493755245, High Risk,12438,Yes
+134,Research & Development,Research Scientist,2956,No,1,1,3,0.24901907591174827, Low Risk,17736,No
+137,Research & Development,Laboratory Technician,2926,Yes,1,4,3,0.8348955360128208, High Risk,17556,Yes
+138,Research & Development,Research Scientist,4809,No,16,3,3,0.05586456392037083, Low Risk,28854,No
+139,Research & Development,Healthcare Representative,5163,No,1,4,4,0.16829741868826847, Low Risk,30978,No
+140,Human Resources,Manager,18844,No,3,4,3,0.048592418191675854, Low Risk,113064,No
+141,Research & Development,Research Director,18172,Yes,8,2,2,0.09168270971295454, Low Risk,109032,No
+142,Sales,Sales Executive,5744,Yes,6,3,3,0.7077973025922958, High Risk,34464,Yes
+143,Research & Development,Research Scientist,2889,No,2,4,3,0.10320938097142776, Low Risk,17334,No
+144,Research & Development,Laboratory Technician,2871,No,0,4,3,0.6022749118551578, High Risk,17226,No
+145,Research & Development,Healthcare Representative,7484,No,13,1,2,0.07464821619084751, Low Risk,44904,No
+147,Research & Development,Laboratory Technician,6074,Yes,9,3,3,0.657810117649575, High Risk,36444,Yes
+148,Human Resources,Manager,17328,Yes,5,4,3,0.07669543243644027, Low Risk,103968,No
+150,Research & Development,Laboratory Technician,2774,No,5,3,3,0.10692757266047458, Low Risk,16644,No
+151,Research & Development,Research Scientist,4505,No,1,2,3,0.13179364368878757, Low Risk,27030,No
+152,Sales,Sales Executive,7428,No,5,4,3,0.09493562914618987, Low Risk,44568,No
+153,Research & Development,Manager,11631,No,11,1,3,0.040144544697207137, Low Risk,69786,No
+154,Sales,Sales Executive,9738,No,9,4,3,0.10894401272414653, Low Risk,58428,No
+155,Research & Development,Laboratory Technician,2835,No,1,4,3,0.18481441386442335, Low Risk,17010,No
+158,Sales,Manager,16959,Yes,25,4,4,0.07317428086334209, Low Risk,101754,No
+159,Research & Development,Research Scientist,2613,No,10,3,2,0.09308927481536529, Low Risk,15678,No
+160,Sales,Sales Executive,6146,No,7,2,4,0.05841916448621176, Low Risk,36876,No
+161,Research & Development,Research Scientist,4963,Yes,5,2,3,0.2088205752069946, Low Risk,29778,Yes
+162,Research & Development,Research Director,19537,No,20,3,3,0.15100220507121903, Low Risk,117222,No
+163,Sales,Sales Executive,6172,Yes,7,3,2,0.7196627650117873, High Risk,37032,Yes
+164,Research & Development,Research Scientist,2368,No,5,2,2,0.15288813932297227, Low Risk,14208,No
+165,Research & Development,Healthcare Representative,10312,No,40,4,2,0.1755653089427322, Low Risk,61872,Yes
+167,Sales,Sales Representative,1675,Yes,0,3,2,0.8907366054615011, High Risk,10050,Yes
+169,Research & Development,Laboratory Technician,2523,No,2,4,3,0.11153888591748468, Low Risk,15138,No
+170,Research & Development,Manufacturing Director,6567,No,15,1,2,0.10313949583307239, Low Risk,39402,No
+171,Research & Development,Research Scientist,4739,No,3,3,3,0.15083735606035195, Low Risk,28434,No
+174,Sales,Sales Executive,9208,No,2,4,3,0.10239524362561941, Low Risk,55248,No
+175,Sales,Sales Executive,4559,Yes,2,3,3,0.42166336843951313, Medium Risk,27354,Yes
+176,Sales,Sales Executive,8189,Yes,9,3,3,0.09180819262202791, Low Risk,49134,No
+177,Human Resources,Human Resources,2942,No,8,3,3,0.10752257192378568, Low Risk,17652,No
+178,Research & Development,Manufacturing Director,4941,No,3,2,3,0.12891822884188692, Low Risk,29646,No
+179,Research & Development,Manufacturing Director,10650,No,4,4,3,0.13906989585335566, Low Risk,63900,Yes
+182,Sales,Sales Executive,5902,No,15,3,4,0.09651133411054628, Low Risk,35412,No
+183,Sales,Sales Executive,8639,No,2,3,3,0.21912619652597537, Low Risk,51834,No
+184,Human Resources,Human Resources,6347,Yes,11,4,1,0.08829296011093049, Low Risk,38082,No
+190,Research & Development,Laboratory Technician,4200,No,5,1,4,0.7259507256491701, High Risk,25200,Yes
+192,Research & Development,Research Scientist,3452,No,6,4,2,0.15128123514839092, Low Risk,20712,No
+193,Research & Development,Research Scientist,4317,Yes,3,3,3,0.10236825582654614, Low Risk,25902,No
+194,Research & Development,Research Scientist,2632,No,5,3,2,0.24348205573272505, Low Risk,15792,No
+195,Sales,Sales Executive,4668,No,8,4,4,0.10749201690343693, Low Risk,28008,No
+197,Research & Development,Research Scientist,3204,No,3,1,3,0.12216476740268173, Low Risk,19224,No
+198,Research & Development,Laboratory Technician,2720,No,5,4,3,0.08029825618309573, Low Risk,16320,No
+199,Research & Development,Manager,17181,No,7,1,2,0.04208713324505884, Low Risk,103086,No
+200,Research & Development,Laboratory Technician,2238,No,5,1,3,0.11474495468601009, Low Risk,13428,No
+201,Research & Development,Laboratory Technician,1483,No,1,2,3,0.4634490165587893, Medium Risk,8898,No
+202,Research & Development,Research Scientist,5605,No,20,2,3,0.057329699781108315, Low Risk,33630,No
+204,Sales,Sales Executive,7295,No,10,2,3,0.10744659527152013, Low Risk,43770,No
+205,Sales,Sales Representative,2306,Yes,7,3,1,0.13145857755763427, Low Risk,13836,No
+206,Research & Development,Laboratory Technician,2348,No,17,2,1,0.09811811861119914, Low Risk,14088,No
+207,Sales,Sales Executive,8998,No,9,4,3,0.0993303318310988, Low Risk,53988,No
+208,Research & Development,Manufacturing Director,4319,No,10,3,3,0.09944808537866166, Low Risk,25914,No
+211,Research & Development,Manufacturing Director,6132,No,1,3,3,0.1409773977643143, Low Risk,36792,No
+214,Research & Development,Research Scientist,3346,Yes,1,2,2,0.1691535546889993, Low Risk,20076,No
+215,Sales,Sales Executive,10855,No,12,4,2,0.07639685395262, Low Risk,65130,No
+216,Sales,Sales Representative,2231,No,4,3,3,0.149766372830784, Low Risk,13386,No
+217,Research & Development,Research Scientist,2323,No,2,4,3,0.19122904004170307, Low Risk,13938,No
+218,Research & Development,Research Scientist,2024,No,2,2,1,0.11140458721914243, Low Risk,12144,No
+221,Research & Development,Research Scientist,2713,No,5,4,1,0.13973520312945997, Low Risk,16278,No
+223,Research & Development,Healthcare Representative,9439,Yes,5,4,1,0.0793857094925912, Low Risk,56634,No
+224,Research & Development,Research Scientist,2566,Yes,1,3,2,0.21537714379296255, Low Risk,15396,No
+226,Research & Development,Manager,19926,No,5,2,3,0.06241614689642933, Low Risk,119556,No
+227,Research & Development,Research Scientist,2451,No,9,3,3,0.084333856170788, Low Risk,14706,No
+228,Sales,Sales Executive,9419,No,10,4,3,0.09249520664626872, Low Risk,56514,No
+230,Sales,Sales Executive,8686,No,8,4,4,0.18955081747819477, Low Risk,52116,No
+231,Research & Development,Research Scientist,3038,No,5,3,3,0.21852823446773695, Low Risk,18228,No
+233,Research & Development,Research Scientist,3058,Yes,5,2,2,0.2175896128697497, Low Risk,18348,No
+235,Sales,Sales Representative,2325,No,0,1,4,0.7563684837500467, High Risk,13950,Yes
+238,Research & Development,Laboratory Technician,2088,No,8,2,2,0.14022020460692577, Low Risk,12528,No
+239,Research & Development,Laboratory Technician,3072,No,12,1,3,0.11454036904212199, Low Risk,18432,No
+240,Sales,Sales Executive,5006,Yes,5,1,4,0.12349121588032518, Low Risk,30036,No
+241,Research & Development,Research Scientist,4257,Yes,2,1,3,0.08709273465565531, Low Risk,25542,No
+242,Research & Development,Research Scientist,2500,No,3,4,4,0.12079080095980457, Low Risk,15000,No
+243,Research & Development,Laboratory Technician,1102,No,1,4,2,0.8160251360017903, High Risk,6612,Yes
+244,Sales,Sales Executive,10453,No,24,1,3,0.1585716563874625, Low Risk,62718,No
+245,Research & Development,Laboratory Technician,2288,No,2,4,3,0.24140135938712548, Low Risk,13728,No
+246,Research & Development,Research Scientist,3929,Yes,4,4,3,0.24457545054177912, Low Risk,23574,No
+247,Research & Development,Research Scientist,2311,No,3,2,3,0.1597114187397703, Low Risk,13866,No
+248,Sales,Sales Representative,3140,Yes,4,2,2,0.40533695458226693, Medium Risk,18840,Yes
+249,Research & Development,Laboratory Technician,3690,No,3,3,2,0.08930132231966756, Low Risk,22140,No
+250,Research & Development,Manufacturing Director,4450,No,4,1,3,0.043566545625034835, Low Risk,26700,No
+252,Research & Development,Research Scientist,2756,No,8,2,3,0.08502086765857847, Low Risk,16536,No
+253,Research & Development,Manager,19033,No,20,3,3,0.02423343958998092, Low Risk,114198,No
+254,Research & Development,Research Director,18722,No,24,2,3,0.06505312591805447, Low Risk,112332,No
+256,Research & Development,Manufacturing Director,9547,No,10,3,2,0.05863542184395402, Low Risk,57282,No
+258,Research & Development,Healthcare Representative,13734,No,7,2,3,0.07252904812490565, Low Risk,82404,No
+259,Research & Development,Manager,19999,No,33,3,3,0.1357392925943359, Low Risk,119994,No
+260,Research & Development,Research Scientist,2279,No,7,2,2,0.18899647570055264, Low Risk,13674,No
+261,Research & Development,Manufacturing Director,5916,Yes,1,3,3,0.7426998164911531, High Risk,35496,Yes
+262,Research & Development,Research Scientist,2089,No,5,4,4,0.04523587377341881, Low Risk,12534,No
+264,Research & Development,Manager,16792,No,20,4,3,0.04244550828043183, Low Risk,100752,No
+267,Research & Development,Research Scientist,3564,Yes,8,1,2,0.17483278453980622, Low Risk,21384,No
+269,Research & Development,Laboratory Technician,4425,No,6,2,3,0.17513673163010535, Low Risk,26550,No
+270,Research & Development,Manufacturing Director,5265,No,5,3,3,0.024314704237769123, Low Risk,31590,No
+271,Research & Development,Manufacturing Director,6553,No,1,3,3,0.0844610222461627, Low Risk,39318,No
+273,Research & Development,Manufacturing Director,6261,No,7,4,1,0.10959317831006679, Low Risk,37566,No
+274,Research & Development,Manufacturing Director,4298,No,2,1,3,0.14816080285313188, Low Risk,25788,No
+275,Research & Development,Manufacturing Director,6804,Yes,7,4,3,0.09582223888696659, Low Risk,40824,No
+277,Research & Development,Research Scientist,3815,Yes,5,3,4,0.1887375031518828, Low Risk,22890,No
+281,Research & Development,Laboratory Technician,2741,Yes,7,4,4,0.13179867661852507, Low Risk,16446,No
+282,Research & Development,Healthcare Representative,6673,Yes,1,1,3,0.640504737489136, High Risk,40038,Yes
+283,Sales,Sales Executive,7639,No,10,4,2,0.5371640948425543, Medium Risk,45834,Yes
+284,Research & Development,Research Scientist,2328,Yes,4,2,2,0.2725641648825519, Low Risk,13968,No
+286,Research & Development,Laboratory Technician,2153,No,8,4,3,0.13975844390546488, Low Risk,12918,No
+287,Research & Development,Healthcare Representative,4876,No,3,4,1,0.06588678337646373, Low Risk,29256,No
+288,Research & Development,Healthcare Representative,9396,No,4,1,3,0.06531808775502816, Low Risk,56376,No
+291,Sales,Sales Executive,10400,No,14,4,2,0.6062727870498464, High Risk,62400,Yes
+292,Research & Development,Manufacturing Director,8474,No,11,3,3,0.07575853777181149, Low Risk,50844,No
+293,Sales,Sales Executive,9981,No,7,3,3,0.1174002483004712, Low Risk,59886,No
+296,Research & Development,Research Director,12490,No,10,2,1,0.037230646323897394, Low Risk,74940,No
+297,Research & Development,Research Scientist,2657,Yes,5,1,3,0.6955925471506207, High Risk,15942,Yes
+298,Sales,Manager,13591,Yes,1,4,3,0.11083649569695965, Low Risk,81546,No
+299,Sales,Sales Executive,6696,No,6,1,2,0.72127668745415, High Risk,40176,Yes
+300,Research & Development,Research Scientist,2058,No,6,3,2,0.1601839748068331, Low Risk,12348,Yes
+302,Sales,Sales Executive,8865,No,19,4,3,0.09349355332722772, Low Risk,53190,No
+303,Sales,Sales Executive,5940,No,6,1,3,0.08449815484880137, Low Risk,35640,No
+304,Research & Development,Laboratory Technician,5914,No,13,2,4,0.052394375369967744, Low Risk,35484,No
+305,Research & Development,Research Scientist,2622,No,3,2,3,0.24124271614269321, Low Risk,15732,No
+306,Research & Development,Research Director,12185,Yes,10,4,3,0.09920399973072663, Low Risk,73110,No
+307,Sales,Sales Executive,10609,No,16,3,2,0.08790724364473997, Low Risk,63654,No
+308,Research & Development,Manufacturing Director,4345,No,5,3,3,0.04905894730883203, Low Risk,26070,No
+309,Research & Development,Research Scientist,2177,No,1,4,3,0.23804545556968734, Low Risk,13062,No
+311,Sales,Sales Representative,2793,No,9,4,3,0.08636797792836438, Low Risk,16758,No
+312,Sales,Sales Executive,7918,No,11,4,3,0.10638562341746352, Low Risk,47508,No
+314,Sales,Sales Executive,8789,No,10,3,4,0.11736199531897165, Low Risk,52734,No
+315,Research & Development,Research Scientist,2389,Yes,4,4,2,0.4494457709298261, Medium Risk,14334,Yes
+316,Research & Development,Laboratory Technician,3212,No,2,4,2,0.10809483822779092, Low Risk,19272,No
+319,Research & Development,Manager,19232,No,22,4,3,0.06652008306346141, Low Risk,115392,No
+321,Human Resources,Human Resources,2267,No,2,3,2,0.18789969460328515, Low Risk,13602,No
+323,Sales,Manager,19517,No,7,4,2,0.06060265048299517, Low Risk,117102,No
+325,Research & Development,Laboratory Technician,2436,Yes,5,4,1,0.7029392279639002, High Risk,14616,Yes
+327,Sales,Manager,16064,Yes,17,4,3,0.043419172923281256, Low Risk,96384,No
+328,Research & Development,Laboratory Technician,2707,No,9,1,4,0.6580364469778058, High Risk,16242,Yes
+329,Sales,Manager,19068,Yes,33,3,4,0.13749188874654567, Low Risk,114408,No
+330,Sales,Sales Representative,3931,No,4,2,3,0.15602052057120327, Low Risk,23586,No
+331,Research & Development,Laboratory Technician,3730,Yes,3,3,1,0.30227236929121165, Medium Risk,22380,Yes
+332,Research & Development,Laboratory Technician,2232,No,3,3,3,0.1150956138501959, Low Risk,13392,No
+333,Sales,Sales Executive,4465,No,3,4,3,0.1819781537898981, Low Risk,26790,No
+334,Research & Development,Research Scientist,3072,No,1,1,2,0.2258920475608363, Low Risk,18432,No
+335,Research & Development,Research Scientist,3319,No,9,4,3,0.06133649115032973, Low Risk,19914,No
+336,Research & Development,Manager,19202,No,24,4,3,0.035037968559892704, Low Risk,115212,No
+337,Research & Development,Research Director,13675,No,2,3,3,0.15802884392269523, Low Risk,82050,No
+338,Research & Development,Research Scientist,2911,No,2,4,2,0.1643739545858091, Low Risk,17466,No
+339,Research & Development,Manufacturing Director,5957,No,11,1,3,0.06858788314159175, Low Risk,35742,No
+340,Research & Development,Research Scientist,3920,No,3,1,2,0.055700798712562935, Low Risk,23520,No
+341,Research & Development,Manufacturing Director,6434,No,3,3,3,0.04161852015590708, Low Risk,38604,No
+342,Research & Development,Manufacturing Director,10048,No,1,3,3,0.663343516777037, High Risk,60288,Yes
+343,Research & Development,Healthcare Representative,10938,No,19,3,3,0.04539125460220352, Low Risk,65628,No
+346,Research & Development,Research Scientist,2340,No,6,4,3,0.08786512752965264, Low Risk,14040,No
+347,Research & Development,Research Scientist,6545,Yes,3,1,3,0.17547885595155865, Low Risk,39270,No
+349,Sales,Sales Executive,6931,No,3,4,3,0.07893445843985618, Low Risk,41586,No
+350,Research & Development,Manufacturing Director,4898,No,4,3,3,0.051830216092386125, Low Risk,29388,No
+351,Research & Development,Laboratory Technician,2593,Yes,9,1,3,0.1207931067436247, Low Risk,15558,No
+352,Research & Development,Research Director,19436,No,21,3,3,0.0504032451912979, Low Risk,116616,No
+353,Research & Development,Research Scientist,2723,No,1,4,2,0.1749575730746475, Low Risk,16338,No
+355,Research & Development,Laboratory Technician,3479,No,5,2,4,0.6487769828626695, High Risk,20874,Yes
+359,Research & Development,Laboratory Technician,2794,No,5,2,1,0.2013625516249931, Low Risk,16764,No
+361,Sales,Sales Executive,5249,No,8,4,3,0.09881555322320637, Low Risk,31494,No
+362,Research & Development,Laboratory Technician,2176,No,6,1,3,0.16004685040281025, Low Risk,13056,No
+363,Sales,Manager,16872,Yes,7,2,2,0.0967339920104095, Low Risk,101232,No
+364,Research & Development,Laboratory Technician,3485,No,0,3,1,0.7788053621327875, High Risk,20910,Yes
+366,Sales,Sales Executive,6644,No,0,2,3,0.1827862198136182, Low Risk,39864,No
+367,Research & Development,Healthcare Representative,5582,No,9,4,3,0.05903632496568096, Low Risk,33492,No
+369,Research & Development,Healthcare Representative,4000,No,6,1,3,0.04115226055344524, Low Risk,24000,No
+372,Research & Development,Healthcare Representative,13496,Yes,20,4,3,0.0653432908850664, Low Risk,80976,No
+373,Research & Development,Laboratory Technician,3210,No,15,4,3,0.07714535160872935, Low Risk,19260,No
+374,Research & Development,Manager,19045,Yes,36,1,3,0.09782141062284479, Low Risk,114270,No
+376,Research & Development,Manager,11849,Yes,10,2,2,0.6088276714133596, High Risk,71094,Yes
+377,Research & Development,Research Scientist,2070,No,5,4,2,0.06859010959443801, Low Risk,12420,No
+378,Sales,Sales Executive,6502,No,5,4,4,0.07626468226712674, Low Risk,39012,No
+379,Research & Development,Research Scientist,3230,No,3,3,4,0.3038847370317912, Medium Risk,19380,No
+380,Research & Development,Research Director,13603,Yes,5,4,3,0.0738259449562947, Low Risk,81618,No
+381,Research & Development,Manager,11996,No,7,2,2,0.030366272674003048, Low Risk,71976,No
+382,Sales,Sales Executive,5605,Yes,8,1,3,0.09058614840579729, Low Risk,33630,No
+384,Research & Development,Manufacturing Director,6397,No,6,2,1,0.04349052269975809, Low Risk,38382,No
+385,Research & Development,Research Director,19144,No,10,2,2,0.035760664222348894, Low Risk,114864,No
+386,Research & Development,Research Director,17584,Yes,5,3,2,0.04804215285383393, Low Risk,105504,No
+387,Sales,Sales Executive,4907,No,20,3,3,0.11013727637310637, Low Risk,29442,No
+388,Sales,Sales Executive,4554,No,10,4,2,0.11022037111091067, Low Risk,27324,No
+389,Research & Development,Laboratory Technician,5415,Yes,10,4,3,0.10591675811779966, Low Risk,32490,No
+390,Research & Development,Healthcare Representative,4741,Yes,5,1,3,0.15602109426926516, Low Risk,28446,No
+391,Research & Development,Research Scientist,2115,No,17,4,3,0.12482990205023838, Low Risk,12690,No
+392,Research & Development,Laboratory Technician,3161,Yes,1,3,1,0.6600161635026899, High Risk,18966,Yes
+393,Research & Development,Healthcare Representative,5745,No,2,4,3,0.08058911020015191, Low Risk,34470,No
+394,Research & Development,Laboratory Technician,2373,Yes,3,2,3,0.7283948130782478, High Risk,14238,Yes
+395,Research & Development,Research Scientist,3310,No,5,4,3,0.0897070915873476, Low Risk,19860,No
+396,Research & Development,Research Director,18665,Yes,3,1,3,0.12794848991089441, Low Risk,111990,No
+397,Research & Development,Research Scientist,4485,No,8,2,3,0.12565185938844162, Low Risk,26910,No
+399,Sales,Sales Representative,2789,No,2,2,2,0.21593790204274055, Low Risk,16734,No
+401,Sales,Sales Executive,5828,Yes,8,4,3,0.382717933898353, Medium Risk,34968,Yes
+403,Research & Development,Research Scientist,2326,Yes,4,4,2,0.21691417847295114, Low Risk,13956,No
+404,Sales,Sales Executive,13525,No,20,2,4,0.09262711609321346, Low Risk,81150,No
+405,Research & Development,Laboratory Technician,1420,No,0,3,3,0.8419257434582822, High Risk,8520,Yes
+406,Sales,Sales Executive,8020,No,11,2,2,0.09956155995266311, Low Risk,48120,No
+407,Research & Development,Laboratory Technician,3688,No,1,4,3,0.09414361221979262, Low Risk,22128,No
+408,Research & Development,Manufacturing Director,5482,No,4,2,3,0.033599409402774894, Low Risk,32892,No
+410,Sales,Manager,16015,No,22,2,3,0.08505950391913034, Low Risk,96090,No
+411,Sales,Sales Representative,1200,No,0,3,3,0.7729940096667804, High Risk,7200,No
+412,Research & Development,Healthcare Representative,5661,No,8,1,3,0.11954247870496819, Low Risk,33966,No
+416,Sales,Sales Executive,6929,No,8,4,2,0.11312667585839663, Low Risk,41574,No
+417,Research & Development,Healthcare Representative,9613,No,18,4,2,0.030478276827907443, Low Risk,57678,No
+419,Research & Development,Laboratory Technician,5674,No,9,2,3,0.07223117937400211, Low Risk,34044,No
+420,Sales,Sales Executive,5484,No,13,3,2,0.0568091327164947, Low Risk,32904,No
+421,Research & Development,Research Director,12061,No,10,2,3,0.052382446966110933, Low Risk,72366,No
+422,Research & Development,Healthcare Representative,5660,Yes,5,3,3,0.08867685167893702, Low Risk,33960,No
+423,Research & Development,Research Scientist,4821,Yes,5,4,3,0.13643965323714174, Low Risk,28926,No
+424,Human Resources,Human Resources,6410,No,2,1,3,0.37160531461907903, Medium Risk,38460,No
+425,Research & Development,Laboratory Technician,5210,No,24,1,3,0.03979580001006318, Low Risk,31260,No
+426,Research & Development,Research Scientist,2695,Yes,2,4,1,0.18808625416579955, Low Risk,16170,No
+428,Research & Development,Manager,11878,No,10,2,3,0.07883537558456773, Low Risk,71268,No
+429,Research & Development,Manager,17068,Yes,21,1,3,0.06813407335497809, Low Risk,102408,No
+430,Research & Development,Laboratory Technician,2455,No,8,4,3,0.08356749497545718, Low Risk,14730,No
+431,Research & Development,Healthcare Representative,13964,Yes,7,3,3,0.1332872594236127, Low Risk,83784,No
+433,Research & Development,Research Scientist,4941,No,8,2,2,0.5210675263672948, Medium Risk,29646,Yes
+434,Research & Development,Research Scientist,2478,Yes,4,2,2,0.5390823222692203, Medium Risk,14868,No
+436,Sales,Sales Executive,5228,Yes,13,2,3,0.19155906944121212, Low Risk,31368,No
+437,Sales,Sales Executive,4478,Yes,5,3,3,0.23041832337634977, Low Risk,26868,No
+438,Sales,Sales Executive,7547,No,7,4,3,0.07635729184477849, Low Risk,45282,No
+439,Research & Development,Research Scientist,5055,No,7,4,2,0.15585465184939618, Low Risk,30330,No
+440,Research & Development,Research Scientist,3464,Yes,3,4,2,0.7680778522818089, High Risk,20784,Yes
+441,Research & Development,Research Scientist,5775,No,10,4,3,0.06836193573038493, Low Risk,34650,No
+442,Research & Development,Manufacturing Director,8943,No,10,3,3,0.08744037985654, Low Risk,53658,No
+444,Research & Development,Manager,19272,No,21,4,3,0.04674032685590361, Low Risk,115632,No
+445,Sales,Sales Executive,5238,Yes,1,3,2,0.6368301759917417, High Risk,31428,Yes
+446,Sales,Sales Executive,4682,No,7,4,2,0.09584783857121405, Low Risk,28092,No
+447,Research & Development,Research Director,18300,No,3,3,3,0.04605773134278368, Low Risk,109800,No
+448,Research & Development,Laboratory Technician,5257,No,9,3,4,0.1229121493796948, Low Risk,31542,No
+449,Sales,Sales Executive,6349,Yes,5,2,3,0.1246809304017443, Low Risk,38094,No
+450,Research & Development,Research Scientist,4869,No,4,3,2,0.06496589073304182, Low Risk,29214,No
+451,Research & Development,Healthcare Representative,9985,No,1,1,2,0.16260209359243, Low Risk,59910,No
+452,Research & Development,Research Scientist,3697,No,10,4,3,0.059627421072527526, Low Risk,22182,No
+453,Sales,Sales Executive,7457,Yes,4,4,2,0.12861794430479984, Low Risk,44742,No
+454,Research & Development,Laboratory Technician,2119,Yes,7,1,2,0.7254002214157919, High Risk,12714,Yes
+455,Research & Development,Laboratory Technician,3983,No,3,4,3,0.12728387089567966, Low Risk,23898,No
+456,Sales,Sales Executive,6118,No,10,3,3,0.11221157746154192, Low Risk,36708,No
+458,Sales,Sales Executive,6214,No,8,2,3,0.09140463619857972, Low Risk,37284,No
+460,Research & Development,Manufacturing Director,6347,No,6,4,2,0.08475024775477694, Low Risk,38082,No
+461,Research & Development,Research Director,11510,Yes,11,4,3,0.026987015780917792, Low Risk,69060,No
+462,Research & Development,Manufacturing Director,7143,Yes,11,4,2,0.10745634076063708, Low Risk,42858,No
+463,Sales,Sales Executive,8268,Yes,7,2,3,0.17257052142996546, Low Risk,49608,No
+464,Research & Development,Manufacturing Director,8095,No,16,2,3,0.03743644127389533, Low Risk,48570,No
+465,Research & Development,Research Scientist,2904,No,4,4,2,0.13116726462788197, Low Risk,17424,No
+466,Research & Development,Manufacturing Director,6032,Yes,5,2,3,0.2040897345909336, Low Risk,36192,No
+467,Sales,Sales Representative,2976,No,0,3,3,0.21644455562656556, Low Risk,17856,No
+468,Research & Development,Research Director,15992,No,1,4,3,0.08706250488776082, Low Risk,95952,No
+469,Sales,Sales Executive,4649,No,4,3,2,0.06676255242644612, Low Risk,27894,No
+470,Human Resources,Human Resources,2696,Yes,3,3,3,0.23389360815874077, Low Risk,16176,No
+471,Research & Development,Laboratory Technician,2370,No,8,2,3,0.10690067899011339, Low Risk,14220,No
+473,Sales,Manager,12504,No,0,3,1,0.0978861944415598, Low Risk,75024,No
+474,Research & Development,Research Scientist,5974,Yes,7,1,3,0.05201078785247459, Low Risk,35844,No
+475,Sales,Sales Executive,4736,Yes,2,3,4,0.24126428533435257, Low Risk,28416,No
+476,Sales,Sales Executive,5296,No,8,3,3,0.0851857336289629, Low Risk,31776,No
+477,Research & Development,Healthcare Representative,6781,No,1,4,3,0.1498256988253, Low Risk,40686,No
+478,Sales,Sales Representative,2174,Yes,3,2,3,0.5380427889029227, Medium Risk,13044,Yes
+479,Sales,Sales Executive,6653,No,1,4,3,0.10426790755467677, Low Risk,39918,No
+481,Sales,Sales Executive,9699,No,13,4,3,0.09137613709527878, Low Risk,58194,No
+482,Research & Development,Healthcare Representative,6755,No,3,3,3,0.049453374625359314, Low Risk,40530,No
+483,Research & Development,Laboratory Technician,2213,Yes,7,3,3,0.16029451409834433, Low Risk,13278,No
+484,Sales,Sales Representative,2610,No,3,4,2,0.15647922786753485, Low Risk,15660,No
+485,Sales,Sales Representative,2851,Yes,1,3,3,0.8639459961040967, High Risk,17106,Yes
+486,Research & Development,Laboratory Technician,3452,No,5,1,3,0.11230859242499273, Low Risk,20712,No
+487,Research & Development,Manufacturing Director,5258,No,1,3,4,0.11041524955861508, Low Risk,31548,No
+488,Sales,Sales Executive,9355,No,8,2,3,0.613563980417626, High Risk,56130,Yes
+491,Research & Development,Healthcare Representative,10496,No,4,4,3,0.07274902444489703, Low Risk,62976,No
+492,Sales,Sales Executive,6380,Yes,6,3,3,0.6301464985618496, High Risk,38280,Yes
+493,Research & Development,Research Scientist,2657,Yes,2,2,3,0.23578754820110967, Low Risk,15942,No
+494,Sales,Sales Representative,2716,No,1,2,3,0.8332993012599981, High Risk,16296,Yes
+495,Research & Development,Research Scientist,2201,No,3,4,3,0.2079861497594622, Low Risk,13206,No
+496,Research & Development,Healthcare Representative,6540,No,1,2,3,0.24355530675883702, Low Risk,39240,No
+497,Research & Development,Laboratory Technician,3816,No,5,2,3,0.11945556355433837, Low Risk,22896,No
+498,Sales,Sales Executive,5253,No,7,4,3,0.17819655873002588, Low Risk,31518,No
+499,Research & Development,Healthcare Representative,10965,No,5,3,3,0.06167728531097803, Low Risk,65790,No
+500,Sales,Sales Executive,4936,No,7,4,2,0.10653653878784353, Low Risk,29616,No
+501,Research & Development,Research Scientist,2543,No,2,3,3,0.08259054138993678, Low Risk,15258,No
+502,Sales,Sales Executive,5304,Yes,5,4,2,0.6603296980004303, High Risk,31824,Yes
+505,Research & Development,Manager,16659,Yes,5,4,3,0.07735150437714709, Low Risk,99954,No
+507,Sales,Sales Executive,4260,Yes,5,3,4,0.09915536799731943, Low Risk,25560,No
+508,Sales,Sales Representative,2476,No,1,2,3,0.36581234866935275, Medium Risk,14856,No
+510,Research & Development,Research Scientist,3102,No,6,1,3,0.20381902695301712, Low Risk,18612,Yes
+511,Research & Development,Research Scientist,2244,No,2,2,3,0.23616641018123666, Low Risk,13464,No
+513,Sales,Sales Executive,7596,No,10,3,3,0.10047162231804498, Low Risk,45576,No
+514,Research & Development,Research Scientist,2285,Yes,1,4,3,0.8297257675278655, High Risk,13710,Yes
+515,Research & Development,Laboratory Technician,3034,No,18,1,2,0.10363083374702767, Low Risk,18204,No
+516,Sales,Sales Executive,5715,No,5,2,3,0.0780945734659379, Low Risk,34290,No
+517,Research & Development,Laboratory Technician,2576,No,5,1,3,0.06851922417431534, Low Risk,15456,No
+518,Research & Development,Manufacturing Director,4197,Yes,1,2,2,0.18773985819864222, Low Risk,25182,No
+520,Research & Development,Research Director,14336,No,25,2,3,0.06172447944851459, Low Risk,86016,No
+521,Research & Development,Laboratory Technician,3448,No,1,3,3,0.11665929627963094, Low Risk,20688,No
+522,Research & Development,Research Director,19406,No,4,1,2,0.03495267025717732, Low Risk,116436,No
+523,Sales,Sales Executive,6538,No,3,3,3,0.08726900073725108, Low Risk,39228,No
+524,Research & Development,Manufacturing Director,4306,No,13,1,1,0.10299521654446969, Low Risk,25836,No
+525,Research & Development,Laboratory Technician,2258,No,3,4,3,0.1145184812219097, Low Risk,13548,No
+526,Research & Development,Healthcare Representative,4522,Yes,5,3,3,0.08728390454154718, Low Risk,27132,No
+527,Sales,Sales Executive,4487,Yes,5,4,3,0.2886352654295743, Low Risk,26922,No
+529,Research & Development,Research Scientist,4449,Yes,13,3,3,0.058081051737461864, Low Risk,26694,No
+530,Research & Development,Laboratory Technician,2218,No,4,1,3,0.1209786501506822, Low Risk,13308,No
+531,Research & Development,Manager,19197,Yes,21,3,3,0.034620577751758426, Low Risk,115182,No
+532,Sales,Sales Executive,13212,No,7,1,2,0.09234777046434284, Low Risk,79272,No
+533,Sales,Sales Executive,6577,No,5,3,3,0.1312400513207208, Low Risk,39462,No
+534,Sales,Sales Executive,8392,No,10,1,3,0.1214694243712522, Low Risk,50352,No
+536,Research & Development,Laboratory Technician,4558,No,10,1,3,0.05378882741920318, Low Risk,27348,No
+538,Research & Development,Laboratory Technician,4031,No,2,1,3,0.603009067139012, High Risk,24186,Yes
+543,Research & Development,Manufacturing Director,7969,Yes,5,3,3,0.11031128393535043, Low Risk,47814,No
+544,Research & Development,Research Scientist,2654,No,2,4,2,0.08852053876883335, Low Risk,15924,No
+546,Research & Development,Manager,16555,No,5,4,1,0.05366863575975483, Low Risk,99330,No
+547,Research & Development,Research Scientist,4556,No,5,3,3,0.18651746943502356, Low Risk,27336,No
+548,Research & Development,Manufacturing Director,6091,No,5,4,3,0.14074767509140323, Low Risk,36546,No
+549,Research & Development,Manager,19566,No,29,1,1,0.0974867950642268, Low Risk,117396,No
+550,Research & Development,Manufacturing Director,4810,No,10,3,2,0.04210260932266346, Low Risk,28860,No
+551,Research & Development,Healthcare Representative,4523,No,6,4,4,0.07505483275634513, Low Risk,27138,No
+554,Sales,Sales Representative,3202,Yes,5,2,3,0.7624814155996789, High Risk,19212,Yes
+555,Sales,Sales Representative,2351,No,2,3,2,0.6565052899725714, High Risk,14106,Yes
+556,Research & Development,Laboratory Technician,1702,Yes,1,4,3,0.21977804030408726, Low Risk,10212,No
+558,Sales,Manager,18041,No,20,3,3,0.02980947953595188, Low Risk,108246,No
+560,Research & Development,Research Scientist,2886,No,3,4,1,0.10516705886425784, Low Risk,17316,No
+562,Research & Development,Laboratory Technician,2097,No,5,4,1,0.09953059277988471, Low Risk,12582,No
+564,Research & Development,Research Director,11935,No,10,3,3,0.08640340475078606, Low Risk,71610,No
+565,Research & Development,Research Scientist,2546,No,2,2,4,0.7734661598696678, High Risk,15276,Yes
+566,Human Resources,Human Resources,2564,No,1,4,4,0.8723268072215808, High Risk,15384,Yes
+567,Sales,Sales Executive,8412,No,9,1,3,0.17400348424174514, Low Risk,50472,No
+568,Sales,Manager,14118,No,1,4,2,0.11464188329275556, Low Risk,84708,No
+569,Research & Development,Manager,17046,No,27,3,3,0.06558082601188209, Low Risk,102276,No
+571,Research & Development,Laboratory Technician,2564,No,11,4,2,0.077441488701208, Low Risk,15384,No
+573,Sales,Sales Executive,10266,No,18,1,4,0.12636093003881632, Low Risk,61596,No
+574,Research & Development,Manufacturing Director,5070,No,5,4,3,0.053947905255792995, Low Risk,30420,No
+575,Research & Development,Research Director,17861,No,3,3,1,0.04416415730429379, Low Risk,107166,No
+577,Research & Development,Laboratory Technician,4230,No,5,3,3,0.1463245273778344, Low Risk,25380,No
+578,Research & Development,Laboratory Technician,3780,No,1,3,3,0.10983796786435952, Low Risk,22680,No
+579,Research & Development,Research Scientist,2768,No,7,3,3,0.04152296845968733, Low Risk,16608,No
+580,Sales,Sales Executive,9071,Yes,3,4,3,0.12995203592140395, Low Risk,54426,No
+581,Research & Development,Manufacturing Director,10648,No,13,2,4,0.04040144818971096, Low Risk,63888,No
+582,Research & Development,Manager,13610,Yes,7,3,4,0.6095510100849478, High Risk,81660,Yes
+584,Research & Development,Laboratory Technician,3408,No,4,4,3,0.6057914605551479, High Risk,20448,Yes
+585,Sales,Sales Representative,2983,No,3,2,3,0.19964437741657748, Low Risk,17898,No
+586,Research & Development,Healthcare Representative,7632,Yes,8,3,3,0.14193751446438724, Low Risk,45792,No
+587,Research & Development,Healthcare Representative,9824,No,1,3,3,0.7728303525020533, High Risk,58944,Yes
+590,Human Resources,Human Resources,9950,Yes,3,1,3,0.6064177883570518, High Risk,59700,Yes
+591,Research & Development,Laboratory Technician,2093,No,2,3,3,0.13309934699304135, Low Risk,12558,No
+592,Sales,Sales Executive,9980,No,10,4,2,0.1425025727916579, Low Risk,59880,No
+593,Research & Development,Laboratory Technician,3894,No,2,3,3,0.664611781217156, High Risk,23364,Yes
+595,Sales,Sales Executive,4051,No,9,4,3,0.08788499156089356, Low Risk,24306,No
+597,Sales,Manager,16835,No,10,2,3,0.10933314655591186, Low Risk,101010,No
+599,Sales,Sales Executive,6230,No,14,4,3,0.06346883336014285, Low Risk,37380,No
+600,Sales,Sales Executive,4717,No,11,3,3,0.1443909065954698, Low Risk,28302,No
+601,Research & Development,Manufacturing Director,13237,No,20,3,3,0.05367922140765806, Low Risk,79422,No
+602,Research & Development,Laboratory Technician,3755,No,8,3,3,0.15183489841610406, Low Risk,22530,No
+604,Sales,Sales Executive,6582,Yes,6,4,4,0.21574456564656497, Low Risk,39492,No
+605,Research & Development,Manufacturing Director,7406,Yes,10,1,2,0.11638950683389931, Low Risk,44436,No
+606,Sales,Sales Executive,4805,No,8,2,4,0.07849971045041972, Low Risk,28830,No
+608,Human Resources,Human Resources,2741,Yes,7,3,2,0.6996314196808836, High Risk,16446,Yes
+611,Research & Development,Manufacturing Director,4262,No,3,4,4,0.11535433963620667, Low Risk,25572,No
+612,Research & Development,Research Director,16184,No,6,3,3,0.07949296700894021, Low Risk,97104,No
+613,Sales,Manager,11557,No,5,4,2,0.18247081548230903, Low Risk,69342,No
+614,Sales,Sales Representative,1878,Yes,0,2,3,0.8937224329135364, High Risk,11268,Yes
+615,Sales,Sales Executive,10932,No,1,1,3,0.175859682308243, Low Risk,65592,No
+616,Research & Development,Healthcare Representative,6811,Yes,8,3,3,0.21136875031619826, Low Risk,40866,No
+618,Sales,Sales Executive,4306,No,0,3,3,0.18343615800807567, Low Risk,25836,No
+620,Sales,Sales Executive,4859,No,5,3,3,0.17744687679903104, Low Risk,29154,No
+621,Sales,Sales Executive,5337,No,10,4,3,0.10705545735984298, Low Risk,32022,No
+622,Research & Development,Laboratory Technician,2340,Yes,1,4,1,0.9283993864560282, High Risk,14040,Yes
+623,Research & Development,Manufacturing Director,7491,No,6,4,4,0.06834411377751913, Low Risk,44946,No
+624,Research & Development,Healthcare Representative,10527,No,2,3,2,0.15981214415476644, Low Risk,63162,No
+625,Sales,Manager,16595,No,18,1,3,0.02881523556288135, Low Risk,99570,No
+626,Sales,Sales Executive,8834,No,9,2,3,0.1291744819547314, Low Risk,53004,No
+630,Research & Development,Research Scientist,5577,Yes,10,1,3,0.02215232101543254, Low Risk,33462,No
+631,Sales,Sales Executive,4707,No,4,3,3,0.6427752795769937, High Risk,28242,Yes
+632,Sales,Sales Representative,2400,No,2,4,3,0.14886048848445912, Low Risk,14400,No
+634,Research & Development,Healthcare Representative,9824,No,1,3,3,0.1333254817368171, Low Risk,58944,No
+635,Research & Development,Manufacturing Director,6447,No,6,2,2,0.060344762404795055, Low Risk,38682,No
+638,Research & Development,Research Director,19502,Yes,31,3,3,0.03960744011181935, Low Risk,117012,No
+639,Research & Development,Research Scientist,2725,Yes,6,4,3,0.3743407333094486, Medium Risk,16350,No
+641,Sales,Sales Executive,6272,No,5,2,4,0.17419877731948546, Low Risk,37632,No
+643,Research & Development,Laboratory Technician,2127,No,1,2,3,0.602356165480221, High Risk,12762,No
+644,Human Resources,Manager,18200,No,32,2,3,0.09573896626035537, Low Risk,109200,No
+645,Sales,Sales Representative,2096,No,7,3,3,0.17237373989018018, Low Risk,12576,No
+647,Research & Development,Laboratory Technician,2886,Yes,6,3,3,0.6554907109765296, High Risk,17316,Yes
+648,Sales,Sales Representative,2033,No,1,1,4,0.7864362859891046, High Risk,12198,Yes
+649,Research & Development,Research Scientist,3622,Yes,6,4,3,0.1643229919145867, Low Risk,21732,No
+650,Sales,Sales Executive,4233,No,3,1,1,0.6718149429473997, High Risk,25398,Yes
+652,Research & Development,Laboratory Technician,3681,No,3,4,3,0.2894780454193282, Low Risk,22086,No
+653,Sales,Sales Executive,5460,No,7,4,4,0.08932092122746763, Low Risk,32760,No
+655,Research & Development,Research Scientist,2187,No,5,3,2,0.10504934822364881, Low Risk,13122,No
+656,Sales,Sales Executive,9602,Yes,3,3,2,0.1861172691843766, Low Risk,57612,No
+657,Research & Development,Research Scientist,2836,No,1,2,4,0.42626737569018663, Medium Risk,17016,No
+659,Research & Development,Healthcare Representative,4089,No,10,4,3,0.06894427051446597, Low Risk,24534,No
+661,Research & Development,Research Director,16627,Yes,1,4,2,0.06759067579905963, Low Risk,99762,No
+662,Research & Development,Research Scientist,2619,No,0,1,2,0.19000754094012293, Low Risk,15714,No
+663,Research & Development,Laboratory Technician,5679,Yes,8,3,3,0.06674590346757443, Low Risk,34074,No
+664,Research & Development,Manager,15402,No,3,1,1,0.058148506350917485, Low Risk,92412,No
+665,Human Resources,Human Resources,5985,No,2,3,4,0.10422476088782798, Low Risk,35910,No
+666,Sales,Sales Representative,2579,Yes,8,3,3,0.19535112914619865, Low Risk,15474,No
+667,Sales,Sales Representative,3041,No,4,1,3,0.5390376995672971, Medium Risk,18246,Yes
+669,Sales,Sales Representative,3447,No,3,3,3,0.3605454924083771, Medium Risk,20682,No
+671,Research & Development,Manager,19513,Yes,2,4,4,0.04898487382410236, Low Risk,117078,No
+675,Research & Development,Research Scientist,2773,No,2,3,3,0.13213905266728546, Low Risk,16638,No
+677,Sales,Sales Executive,7104,No,5,3,3,0.1087700849822873, Low Risk,42624,No
+679,Research & Development,Research Scientist,6322,Yes,6,4,2,0.16468900593497196, Low Risk,37932,No
+680,Research & Development,Research Scientist,2083,No,1,3,3,0.3515422771603813, Medium Risk,12498,No
+682,Sales,Sales Executive,8381,No,14,1,4,0.16390722318519874, Low Risk,50286,No
+683,Research & Development,Research Scientist,2691,No,10,4,2,0.06464250902272756, Low Risk,16146,No
+684,Sales,Sales Executive,4286,No,1,1,3,0.6301620943567433, High Risk,25716,Yes
+686,Research & Development,Laboratory Technician,2659,Yes,3,4,3,0.3352722099063966, Medium Risk,15954,No
+689,Research & Development,Manufacturing Director,9434,No,10,3,3,0.07280745208515266, Low Risk,56604,No
+690,Sales,Sales Executive,5561,No,6,3,2,0.0784848758989822, Low Risk,33366,No
+691,Research & Development,Research Scientist,6646,No,17,4,3,0.09731178045022243, Low Risk,39876,No
+692,Research & Development,Healthcare Representative,7725,No,13,4,1,0.05862833053392373, Low Risk,46350,No
+698,Human Resources,Human Resources,10725,No,9,2,4,0.1221751588280385, Low Risk,64350,No
+699,Research & Development,Manufacturing Director,8847,Yes,3,2,3,0.11948886107202253, Low Risk,53082,No
+700,Research & Development,Research Scientist,2045,No,4,4,3,0.13719953606373414, Low Risk,12270,No
+701,Research & Development,Research Scientist,1009,Yes,1,3,3,0.8160462066816077, High Risk,6054,Yes
+702,Research & Development,Research Scientist,3348,Yes,10,1,3,0.4648494143589641, Medium Risk,20088,Yes
+704,Research & Development,Laboratory Technician,1281,No,1,3,3,0.18576648270631058, Low Risk,7686,No
+705,Research & Development,Research Scientist,2819,No,3,1,4,0.14503033198362825, Low Risk,16914,No
+707,Sales,Sales Executive,4851,No,3,2,3,0.06633075338419274, Low Risk,29106,No
+709,Sales,Sales Executive,4028,No,7,4,3,0.09835002728380732, Low Risk,24168,No
+710,Research & Development,Research Scientist,2720,No,10,4,3,0.06591180442342034, Low Risk,16320,No
+712,Sales,Sales Executive,8120,No,2,2,3,0.10886269296618532, Low Risk,48720,No
+714,Sales,Sales Executive,4647,Yes,6,4,3,0.05777456750804442, Low Risk,27882,No
+715,Research & Development,Research Scientist,4680,No,1,4,3,0.16150854808042017, Low Risk,28080,No
+716,Research & Development,Laboratory Technician,3221,Yes,20,3,3,0.0925907066708324, Low Risk,19326,No
+717,Research & Development,Healthcare Representative,8621,No,8,2,4,0.08463568977756136, Low Risk,51726,No
+720,Sales,Sales Executive,4577,No,2,3,3,0.398825979423737, Medium Risk,27462,Yes
+721,Research & Development,Healthcare Representative,4553,No,20,3,3,0.0669207838792708, Low Risk,27318,No
+722,Sales,Sales Executive,5396,No,10,4,2,0.10652328445053895, Low Risk,32376,No
+723,Sales,Sales Executive,6796,Yes,4,3,3,0.5911741070807354, Medium Risk,40776,Yes
+724,Research & Development,Healthcare Representative,7625,No,9,4,2,0.029397482626317015, Low Risk,45750,No
+725,Research & Development,Manufacturing Director,7412,No,9,1,3,0.11987431586221112, Low Risk,44472,No
+727,Research & Development,Research Director,11159,No,7,4,3,0.052173246340140124, Low Risk,66954,No
+728,Sales,Sales Executive,4960,No,7,1,3,0.1318307930140434, Low Risk,29760,No
+729,Sales,Sales Executive,10475,Yes,18,1,3,0.11049193553365616, Low Risk,62850,No
+730,Research & Development,Research Director,14814,No,5,3,3,0.0247581422862601, Low Risk,88884,No
+731,Human Resources,Manager,19141,No,21,4,2,0.05397760635853496, Low Risk,114846,No
+732,Sales,Sales Executive,5405,No,2,1,3,0.20414345960304064, Low Risk,32430,No
+733,Research & Development,Manufacturing Director,8793,No,9,1,2,0.08987876622578249, Low Risk,52758,No
+734,Human Resources,Manager,19189,No,22,3,3,0.03269093428747302, Low Risk,115134,No
+738,Sales,Sales Representative,3875,No,2,2,3,0.11189013599425365, Low Risk,23250,No
+741,Research & Development,Research Scientist,2216,Yes,7,2,3,0.7709387348073542, High Risk,13296,Yes
+742,Research & Development,Research Director,11713,No,8,1,3,0.08876804449103122, Low Risk,70278,No
+743,Research & Development,Manufacturing Director,7861,Yes,1,3,4,0.1339385200272252, Low Risk,47166,No
+744,Research & Development,Laboratory Technician,3708,No,5,3,3,0.3525631962388553, Medium Risk,22248,No
+746,Sales,Sales Executive,13770,Yes,22,3,2,0.10713861897047196, Low Risk,82620,No
+747,Sales,Sales Executive,5304,No,8,4,2,0.12409766306635422, Low Risk,31824,No
+749,Sales,Sales Representative,2642,No,1,3,3,0.29776570858646406, Low Risk,15852,No
+752,Research & Development,Research Scientist,2759,Yes,2,3,3,0.363058496118608, Medium Risk,16554,Yes
+754,Sales,Sales Executive,6804,No,2,4,3,0.15059767179564648, Low Risk,40824,No
+757,Research & Development,Healthcare Representative,6142,No,5,3,3,0.07179780752221533, Low Risk,36852,No
+758,Research & Development,Laboratory Technician,2500,No,4,1,4,0.14181044481308064, Low Risk,15000,No
+760,Human Resources,Human Resources,6389,No,8,2,1,0.11456032097550511, Low Risk,38334,No
+762,Research & Development,Healthcare Representative,11103,No,10,4,2,0.08866056245181288, Low Risk,66618,No
+763,Research & Development,Research Scientist,2342,Yes,4,4,2,0.2217605362692227, Low Risk,14052,No
+764,Research & Development,Healthcare Representative,6811,No,7,1,1,0.14662924087183044, Low Risk,40866,No
+766,Sales,Sales Representative,2297,No,2,2,3,0.1550512014916833, Low Risk,13782,No
+769,Research & Development,Laboratory Technician,2450,No,2,4,3,0.06900549877708298, Low Risk,14700,No
+771,Research & Development,Healthcare Representative,5093,No,1,1,4,0.18927601987780032, Low Risk,30558,No
+772,Research & Development,Laboratory Technician,5309,No,10,4,3,0.1055128328232276, Low Risk,31854,No
+773,Research & Development,Research Scientist,3057,Yes,1,3,1,0.3409862442459023, Medium Risk,18342,No
+775,Research & Development,Manufacturing Director,5121,No,0,1,3,0.1330436310666375, Low Risk,30726,No
+776,Sales,Manager,16856,No,34,1,4,0.09829905925338837, Low Risk,101136,No
+780,Research & Development,Research Scientist,2686,Yes,10,4,2,0.24596250297460587, Low Risk,16116,Yes
+781,Sales,Sales Executive,6180,No,6,4,2,0.1616053897093159, Low Risk,37080,No
+783,Sales,Sales Representative,6632,No,8,3,3,0.19414647780431935, Low Risk,39792,No
+784,Research & Development,Research Scientist,3505,No,2,3,3,0.31070771500798766, Medium Risk,21030,No
+785,Sales,Sales Executive,6397,Yes,5,3,3,0.6794896717850439, High Risk,38382,Yes
+786,Sales,Sales Executive,6274,No,6,4,3,0.09622081164695725, Low Risk,37644,No
+787,Research & Development,Manager,19859,Yes,5,1,3,0.5337691287323131, Medium Risk,119154,Yes
+789,Sales,Sales Executive,7587,No,10,1,3,0.1364677763192444, Low Risk,45522,No
+791,Research & Development,Research Scientist,4258,No,4,4,3,0.08388959502826512, Low Risk,25548,No
+792,Research & Development,Laboratory Technician,4364,No,2,4,3,0.181995999467698, Low Risk,26184,No
+793,Research & Development,Healthcare Representative,4335,No,8,3,2,0.15047508038944737, Low Risk,26010,No
+796,Sales,Sales Executive,5326,No,4,1,2,0.6746588773292342, High Risk,31956,Yes
+797,Research & Development,Research Scientist,3280,No,4,4,3,0.1031754516651079, Low Risk,19680,No
+799,Research & Development,Manufacturing Director,5485,Yes,5,1,3,0.10644600946853605, Low Risk,32910,No
+800,Sales,Sales Executive,4342,No,4,4,3,0.12894131130765654, Low Risk,26052,No
+802,Research & Development,Research Scientist,2782,Yes,5,1,2,0.22714520862199528, Low Risk,16692,No
+803,Research & Development,Manufacturing Director,5980,Yes,15,1,3,0.17316935674834977, Low Risk,35880,No
+804,Research & Development,Research Scientist,4381,No,6,1,3,0.13175724452779228, Low Risk,26286,No
+805,Sales,Sales Representative,2572,No,3,4,2,0.097492163595754, Low Risk,15432,No
+806,Research & Development,Laboratory Technician,3833,No,2,3,3,0.18021918717118268, Low Risk,22998,No
+807,Research & Development,Healthcare Representative,4244,No,8,2,3,0.07045799968478673, Low Risk,25464,No
+808,Sales,Sales Executive,6500,No,3,1,3,0.13389174357198233, Low Risk,39000,No
+809,Research & Development,Manager,18430,No,24,4,2,0.034048986530043235, Low Risk,110580,No
+811,Research & Development,Laboratory Technician,1601,Yes,0,1,3,0.7991407897564513, High Risk,9606,Yes
+812,Research & Development,Laboratory Technician,2694,No,1,2,3,0.26524572771239857, Low Risk,16164,No
+813,Research & Development,Laboratory Technician,3149,No,5,3,3,0.05179721004559002, Low Risk,18894,No
+815,Research & Development,Research Director,17639,No,4,3,3,0.03888136488826961, Low Risk,105834,No
+816,Research & Development,Laboratory Technician,2319,Yes,1,1,3,0.8549340513560807, High Risk,13914,Yes
+817,Research & Development,Research Director,11691,No,13,3,4,0.10093009536842806, Low Risk,70146,No
+819,Sales,Sales Executive,5324,No,3,1,3,0.744426172314232, High Risk,31944,Yes
+820,Research & Development,Manager,16752,Yes,26,4,2,0.060160087616788455, Low Risk,100512,No
+823,Research & Development,Manufacturing Director,5228,No,9,2,3,0.07474144654874303, Low Risk,31368,No
+824,Research & Development,Research Scientist,2700,No,10,3,3,0.08442989361792082, Low Risk,16200,No
+825,Research & Development,Research Director,19246,Yes,31,2,3,0.6272238527283641, High Risk,115476,Yes
+826,Research & Development,Research Scientist,2506,No,2,3,3,0.1462167966808593, Low Risk,15036,No
+827,Research & Development,Manufacturing Director,6062,Yes,4,4,3,0.08889200552089173, Low Risk,36372,No
+828,Research & Development,Research Scientist,4382,No,2,3,2,0.6567384804381348, High Risk,26292,Yes
+829,Human Resources,Human Resources,2143,No,5,2,3,0.11901958977010488, Low Risk,12858,No
+830,Research & Development,Manufacturing Director,6162,No,14,3,3,0.027151393251880207, Low Risk,36972,No
+832,Research & Development,Laboratory Technician,5094,No,1,3,3,0.22461872995814441, Low Risk,30564,No
+833,Research & Development,Manufacturing Director,6877,Yes,0,4,2,0.419812909540125, Medium Risk,41262,No
+834,Research & Development,Research Scientist,2274,No,1,3,3,0.3337621821971032, Medium Risk,13644,No
+836,Research & Development,Manufacturing Director,4434,No,9,2,2,0.16582498240506424, Low Risk,26604,No
+837,Research & Development,Healthcare Representative,6288,No,4,1,2,0.1294474962531141, Low Risk,37728,No
+838,Research & Development,Research Scientist,2553,No,5,4,3,0.1544927747209476, Low Risk,15318,No
+840,Sales,Sales Executive,7654,No,9,4,4,0.5877875794808413, Medium Risk,45924,Yes
+842,Sales,Sales Executive,5160,No,9,4,2,0.6085546797885713, High Risk,30960,Yes
+843,Research & Development,Research Director,17159,No,4,1,3,0.04430727081964375, Low Risk,102954,No
+844,Research & Development,Research Director,12808,Yes,9,4,3,0.067338381518803, Low Risk,76848,No
+845,Research & Development,Manufacturing Director,10221,No,8,3,4,0.04003079966754228, Low Risk,61326,No
+846,Sales,Sales Executive,4779,Yes,8,2,3,0.18106451574065904, Low Risk,28674,No
+847,Human Resources,Human Resources,3737,No,3,4,1,0.07887497802604539, Low Risk,22422,No
+848,Research & Development,Research Scientist,2366,Yes,8,3,3,0.7011674950314264, High Risk,14196,Yes
+850,Research & Development,Research Scientist,1706,No,0,4,2,0.17770617648892753, Low Risk,10236,No
+851,Sales,Manager,16307,No,20,3,2,0.05827542901454935, Low Risk,97842,No
+852,Research & Development,Healthcare Representative,5933,No,5,2,2,0.14998383027793324, Low Risk,35598,No
+854,Research & Development,Research Scientist,3424,No,4,1,2,0.3045667520574825, Medium Risk,20544,No
+855,Sales,Sales Executive,4037,No,9,1,3,0.07203210105372089, Low Risk,24222,No
+856,Research & Development,Research Scientist,2559,No,6,1,2,0.16526335666332068, Low Risk,15354,No
+857,Sales,Sales Executive,6201,Yes,18,4,2,0.12299792455536009, Low Risk,37206,No
+859,Sales,Sales Executive,4403,No,5,4,2,0.11798688289396858, Low Risk,26418,No
+861,Research & Development,Research Scientist,3761,No,5,4,2,0.08008075147353017, Low Risk,22566,No
+862,Sales,Sales Executive,10934,Yes,5,4,3,0.13311495321885006, Low Risk,65604,No
+864,Sales,Sales Executive,10761,Yes,5,1,3,0.12817530748354156, Low Risk,64566,No
+865,Research & Development,Research Scientist,5175,No,5,3,2,0.06795099119821522, Low Risk,31050,No
+867,Research & Development,Manufacturing Director,13826,No,9,4,3,0.05049291119224276, Low Risk,82956,No
+868,Sales,Sales Executive,6334,No,1,3,3,0.16619231441453666, Low Risk,38004,No
+869,Human Resources,Human Resources,4936,No,5,4,3,0.05482698539716235, Low Risk,29616,No
+872,Research & Development,Manufacturing Director,4775,No,2,4,1,0.10529291949125996, Low Risk,28650,No
+874,Research & Development,Laboratory Technician,2818,Yes,3,4,2,0.20977472082426873, Low Risk,16908,No
+875,Research & Development,Research Scientist,2515,Yes,2,4,3,0.1774585508075492, Low Risk,15090,No
+878,Human Resources,Human Resources,2342,No,5,1,3,0.15285987870234286, Low Risk,14052,No
+879,Sales,Sales Executive,4194,Yes,5,1,3,0.155334614531244, Low Risk,25164,No
+880,Research & Development,Manufacturing Director,10685,Yes,17,3,3,0.03915251013794301, Low Risk,64110,No
+881,Research & Development,Research Scientist,2022,Yes,10,2,2,0.7005023495056123, High Risk,12132,Yes
+882,Research & Development,Laboratory Technician,2314,No,3,4,3,0.07519000682192259, Low Risk,13884,No
+885,Sales,Sales Executive,4256,No,5,1,4,0.19254723350745612, Low Risk,25536,No
+887,Research & Development,Research Scientist,3580,No,4,1,3,0.09133214477273287, Low Risk,21480,No
+888,Research & Development,Laboratory Technician,3162,No,5,4,2,0.09093353113101185, Low Risk,18972,No
+889,Sales,Sales Executive,6524,No,10,2,3,0.14417977406586222, Low Risk,39144,No
+893,Sales,Sales Representative,2899,No,2,2,3,0.10313905906237233, Low Risk,17394,No
+894,Research & Development,Laboratory Technician,5231,Yes,5,4,2,0.0638711981579148, Low Risk,31386,No
+895,Research & Development,Research Scientist,2356,Yes,6,4,3,0.2702949246324297, Low Risk,14136,No
+896,Sales,Sales Representative,2800,Yes,3,3,3,0.3906556807556165, Medium Risk,16800,Yes
+897,Sales,Sales Executive,11836,No,2,4,3,0.09156731689551002, Low Risk,71016,No
+899,Research & Development,Manufacturing Director,10903,No,13,2,3,0.09381681137183874, Low Risk,65418,No
+900,Sales,Sales Representative,2973,No,5,4,3,0.12130150680745168, Low Risk,17838,No
+901,Research & Development,Research Director,14275,No,12,4,3,0.12099200466373108, Low Risk,85650,No
+902,Research & Development,Healthcare Representative,5562,No,5,4,2,0.06884309797279613, Low Risk,33372,No
+903,Sales,Sales Executive,4537,Yes,7,4,3,0.10694502472392686, Low Risk,27222,No
+904,Sales,Sales Executive,7642,Yes,10,2,3,0.11962558632622261, Low Risk,45852,No
+905,Research & Development,Manager,17924,No,31,1,3,0.07831338558661655, Low Risk,107544,No
+909,Human Resources,Human Resources,5204,No,5,4,3,0.06805868355910581, Low Risk,31224,No
+910,Human Resources,Human Resources,2277,Yes,4,2,4,0.4153435357782135, Medium Risk,13662,No
+911,Research & Development,Laboratory Technician,2795,Yes,1,4,1,0.8620287056324605, High Risk,16770,Yes
+912,Research & Development,Laboratory Technician,2532,No,4,4,3,0.15481850409859818, Low Risk,15192,No
+913,Research & Development,Research Scientist,2559,Yes,8,1,3,0.24017805112843932, Low Risk,15354,No
+916,Sales,Sales Executive,4908,No,4,4,3,0.15432718704039358, Low Risk,29448,No
+918,Research & Development,Laboratory Technician,2380,Yes,1,4,2,0.7363283977086716, High Risk,14280,Yes
+920,Research & Development,Manufacturing Director,4765,No,1,2,4,0.14686497594899225, Low Risk,28590,No
+922,Sales,Sales Representative,2044,No,2,3,2,0.7279790734779332, High Risk,12264,Yes
+923,Research & Development,Research Scientist,2693,No,1,4,2,0.585621107012023, Medium Risk,16158,Yes
+924,Research & Development,Healthcare Representative,6586,Yes,16,4,2,0.0718082899128303, Low Risk,39516,No
+925,Sales,Sales Representative,3294,Yes,3,4,2,0.3113359179767926, Medium Risk,19764,No
+926,Research & Development,Manufacturing Director,4171,Yes,3,3,4,0.5908553366097214, Medium Risk,25026,Yes
+927,Research & Development,Laboratory Technician,2778,Yes,7,4,2,0.6631340316743125, High Risk,16668,Yes
+930,Research & Development,Research Scientist,2377,No,2,3,3,0.24041594054637883, Low Risk,14262,No
+932,Research & Development,Laboratory Technician,2404,Yes,2,1,1,0.743386599073875, High Risk,14424,Yes
+933,Research & Development,Research Scientist,2318,No,1,3,3,0.6383200826920471, High Risk,13908,No
+934,Research & Development,Laboratory Technician,2008,No,1,2,3,0.37937179950965016, Medium Risk,12048,No
+936,Sales,Sales Executive,6244,No,5,3,3,0.2097051190496294, Low Risk,37464,No
+939,Research & Development,Research Scientist,2799,Yes,3,1,3,0.31039163131456066, Medium Risk,16794,No
+940,Research & Development,Healthcare Representative,10552,Yes,6,2,3,0.040886783861007456, Low Risk,63312,No
+941,Sales,Sales Representative,2329,No,7,3,4,0.16636154241382836, Low Risk,13974,No
+942,Research & Development,Healthcare Representative,4014,Yes,10,4,1,0.06929004695036146, Low Risk,24084,No
+944,Research & Development,Laboratory Technician,7403,No,26,2,2,0.0828389020273284, Low Risk,44418,No
+945,Research & Development,Research Scientist,2259,No,0,3,2,0.14435035640067068, Low Risk,13554,No
+947,Sales,Sales Executive,6932,No,9,3,2,0.10059529145205395, Low Risk,41592,No
+949,Research & Development,Research Scientist,4678,No,6,4,3,0.09810371891745662, Low Risk,28068,No
+950,Research & Development,Research Director,13582,No,15,1,3,0.015722305055788137, Low Risk,81492,No
+951,Research & Development,Laboratory Technician,2332,No,3,2,3,0.1349348548007992, Low Risk,13992,No
+952,Sales,Sales Representative,2413,Yes,1,2,3,0.8706079196497757, High Risk,14478,Yes
+954,Sales,Sales Executive,9705,No,1,2,2,0.3818156593481583, Medium Risk,58230,No
+956,Sales,Sales Executive,4294,No,7,1,3,0.1970584840885501, Low Risk,25764,No
+957,Research & Development,Laboratory Technician,4721,Yes,18,1,3,0.16231737302377863, Low Risk,28326,No
+958,Research & Development,Laboratory Technician,2519,No,11,3,3,0.08767714610463948, Low Risk,15114,No
+959,Sales,Sales Representative,2121,Yes,1,2,4,0.9225064467380285, High Risk,12726,Yes
+960,Research & Development,Laboratory Technician,2973,No,1,1,3,0.8245017943116424, High Risk,17838,Yes
+961,Research & Development,Healthcare Representative,5855,Yes,9,4,1,0.10975006042036206, Low Risk,35130,No
+964,Research & Development,Research Scientist,3617,Yes,1,2,3,0.10426120316084604, Low Risk,21702,No
+966,Research & Development,Manufacturing Director,6725,No,8,1,4,0.06605123415332977, Low Risk,40350,No
+967,Sales,Sales Executive,10325,Yes,16,4,3,0.5956578509664479, Medium Risk,61950,Yes
+969,Research & Development,Healthcare Representative,6949,No,5,4,3,0.0585999935633451, Low Risk,41694,No
+970,Sales,Sales Executive,10609,No,14,3,1,0.6725961052337098, High Risk,63654,Yes
+972,Research & Development,Laboratory Technician,4447,No,9,2,2,0.07138364661936433, Low Risk,26682,No
+974,Sales,Sales Representative,2157,No,3,4,3,0.3017698489255682, Medium Risk,12942,No
+975,Sales,Sales Executive,4601,No,5,3,3,0.14199424085270518, Low Risk,27606,No
+976,Research & Development,Manager,17099,No,9,4,2,0.026064659718914873, Low Risk,102594,No
+977,Research & Development,Research Scientist,2479,No,1,3,3,0.32280197052410636, Medium Risk,14874,Yes
+981,Sales,Manager,14852,No,17,3,4,0.07648236519858492, Low Risk,89112,No
+982,Sales,Sales Executive,7264,No,8,3,4,0.13073686245276525, Low Risk,43584,No
+983,Sales,Sales Executive,5666,Yes,5,4,3,0.21784984745773958, Low Risk,33996,No
+984,Sales,Sales Executive,7823,No,10,4,3,0.08634727187135172, Low Risk,46938,No
+985,Sales,Sales Executive,7880,No,8,3,3,0.10297327619324978, Low Risk,47280,No
+986,Sales,Sales Executive,13194,Yes,1,2,2,0.6974334720639126, High Risk,79164,Yes
+987,Research & Development,Manufacturing Director,5067,Yes,19,3,4,0.08770296340540756, Low Risk,30402,No
+990,Sales,Sales Executive,5079,No,7,4,3,0.09747632791414267, Low Risk,30474,No
+991,Research & Development,Research Scientist,2321,Yes,3,1,3,0.39620162066968434, Medium Risk,13926,Yes
+992,Sales,Manager,17444,No,10,3,3,0.07761862620426724, Low Risk,104664,No
+994,Research & Development,Research Scientist,2404,Yes,0,1,3,0.7901091787726461, High Risk,14424,Yes
+995,Research & Development,Research Scientist,3452,No,3,4,3,0.17167590566656293, Low Risk,20712,No
+996,Research & Development,Laboratory Technician,2270,No,5,4,3,0.07164847673371816, Low Risk,13620,No
+997,Research & Development,Research Director,17399,No,5,4,2,0.02939441853032105, Low Risk,104394,No
+998,Research & Development,Healthcare Representative,5488,Yes,6,2,3,0.13472093378716388, Low Risk,32928,No
+999,Research & Development,Research Director,19419,No,18,3,4,0.04661964534347974, Low Risk,116514,No
+1001,Research & Development,Laboratory Technician,2811,No,2,2,3,0.24521111004471483, Low Risk,16866,No
+1002,Research & Development,Laboratory Technician,3633,Yes,9,1,3,0.13138850202628044, Low Risk,21798,No
+1003,Sales,Sales Executive,4163,Yes,9,4,3,0.16305828434709085, Low Risk,24978,No
+1004,Research & Development,Research Scientist,2132,Yes,5,3,3,0.7898310834583288, High Risk,12792,Yes
+1005,Research & Development,Manufacturing Director,13973,Yes,12,3,3,0.043672193681694976, Low Risk,83838,No
+1006,Research & Development,Research Scientist,2684,No,2,3,2,0.08413928941165094, Low Risk,16104,No
+1007,Research & Development,Manufacturing Director,10845,No,8,3,3,0.07512750106072624, Low Risk,65070,No
+1009,Research & Development,Manufacturing Director,4377,No,4,3,3,0.11674799343076898, Low Risk,26262,No
+1010,Research & Development,Laboratory Technician,3743,Yes,4,2,1,0.7055310415901908, High Risk,22458,Yes
+1011,Research & Development,Manufacturing Director,4148,No,4,1,3,0.09169354373287116, Low Risk,24888,No
+1012,Research & Development,Research Scientist,1051,No,0,4,3,0.4436975550733544, Medium Risk,6306,No
+1013,Research & Development,Manufacturing Director,10739,No,10,3,3,0.05693735543253037, Low Risk,64434,No
+1014,Research & Development,Healthcare Representative,10388,Yes,16,3,2,0.15283420815884086, Low Risk,62328,No
+1015,Research & Development,Research Director,11416,Yes,8,1,2,0.09766873935261451, Low Risk,68496,No
+1016,Research & Development,Research Scientist,2600,Yes,1,1,3,0.9153853562279199, High Risk,15600,Yes
+1017,Research & Development,Laboratory Technician,2422,No,3,2,3,0.19883470414953333, Low Risk,14532,Yes
+1018,Research & Development,Manufacturing Director,5472,No,8,4,3,0.08439710293519866, Low Risk,32832,No
+1019,Research & Development,Laboratory Technician,2451,No,4,1,2,0.19730949495183683, Low Risk,14706,No
+1022,Research & Development,Healthcare Representative,4240,No,2,3,3,0.1241788449490095, Low Risk,25440,No
+1024,Research & Development,Healthcare Representative,10999,No,15,3,3,0.0579444594104436, Low Risk,65994,No
+1025,Research & Development,Manufacturing Director,5003,No,2,3,3,0.09414404645635248, Low Risk,30018,No
+1026,Research & Development,Manufacturing Director,12742,No,21,4,3,0.061978871203984244, Low Risk,76452,No
+1027,Research & Development,Manufacturing Director,4227,No,3,4,3,0.04071622158110082, Low Risk,25362,No
+1028,Research & Development,Laboratory Technician,3917,No,3,4,2,0.11283244427211298, Low Risk,23502,No
+1029,Sales,Manager,18303,No,1,3,4,0.08834395914077647, Low Risk,109818,No
+1030,Research & Development,Laboratory Technician,2380,No,1,4,3,0.33312215398473943, Medium Risk,14280,No
+1032,Research & Development,Manufacturing Director,13726,Yes,5,4,3,0.06586534972421124, Low Risk,82356,No
+1033,Research & Development,Healthcare Representative,4777,No,1,2,1,0.39577673668955543, Medium Risk,28662,Yes
+1034,Research & Development,Healthcare Representative,6385,Yes,8,2,3,0.10424830866070746, Low Risk,38310,No
+1035,Research & Development,Research Director,19973,No,21,3,3,0.14483495994896214, Low Risk,119838,No
+1036,Sales,Sales Executive,6861,Yes,1,4,3,0.289224809743415, Low Risk,41166,No
+1037,Sales,Sales Executive,4969,No,2,1,3,0.6895698632048735, High Risk,29814,Yes
+1038,Sales,Manager,19845,No,32,4,3,0.6196070667656592, High Risk,119070,Yes
+1039,Sales,Sales Executive,13320,Yes,12,4,3,0.08506793095738725, Low Risk,79920,No
+1040,Sales,Sales Executive,6347,No,18,3,3,0.08452163344061192, Low Risk,38082,No
+1042,Research & Development,Laboratory Technician,2743,No,17,1,3,0.5993408682649237, Medium Risk,16458,Yes
+1043,Research & Development,Manufacturing Director,10880,Yes,21,1,3,0.13587324792825053, Low Risk,65280,No
+1044,Sales,Sales Representative,2342,No,2,4,2,0.13227542808471582, Low Risk,14052,No
+1045,Sales,Manager,17650,No,9,4,4,0.055222981959252675, Low Risk,105900,No
+1046,Research & Development,Laboratory Technician,4025,No,8,3,3,0.18752481046459718, Low Risk,24150,No
+1047,Sales,Sales Executive,9725,No,15,4,2,0.08426656803829723, Low Risk,58350,No
+1048,Sales,Manager,11904,Yes,6,4,1,0.1577672511075586, Low Risk,71424,No
+1049,Human Resources,Human Resources,2177,No,6,2,3,0.18590970450874036, Low Risk,13062,No
+1050,Sales,Sales Executive,7525,No,15,2,3,0.11563903674244108, Low Risk,45150,No
+1052,Research & Development,Laboratory Technician,4834,No,1,3,2,0.609268643019568, High Risk,29004,Yes
+1053,Research & Development,Research Scientist,2042,Yes,3,1,3,0.5865308184733222, Medium Risk,12252,Yes
+1055,Sales,Sales Representative,2220,Yes,1,3,3,0.3212609348319173, Medium Risk,13320,No
+1056,Sales,Sales Representative,1052,No,1,2,3,0.6408129229604469, High Risk,6312,No
+1060,Research & Development,Research Scientist,2821,No,2,3,3,0.11155668559347831, Low Risk,16926,No
+1061,Research & Development,Research Director,19237,Yes,8,3,2,0.09912438173151125, Low Risk,115422,No
+1062,Research & Development,Healthcare Representative,4107,No,4,2,2,0.16309120703995042, Low Risk,24642,No
+1066,Sales,Sales Executive,8396,No,7,1,2,0.17167871077686578, Low Risk,50376,No
+1068,Research & Development,Research Scientist,2007,No,5,3,3,0.09134262041320303, Low Risk,12042,No
+1069,Research & Development,Research Director,19627,No,2,4,3,0.09119986478529654, Low Risk,117762,No
+1070,Sales,Sales Executive,10686,No,9,3,3,0.2588905658732661, Low Risk,64116,No
+1071,Research & Development,Research Scientist,2942,No,5,3,3,0.1459832694166322, Low Risk,17652,No
+1073,Research & Development,Manufacturing Director,8858,No,14,4,2,0.16263661403707239, Low Risk,53148,No
+1074,Research & Development,Manager,16756,No,9,1,4,0.12403904854753944, Low Risk,100536,No
+1076,Sales,Sales Executive,10798,No,1,4,3,0.1180933430598653, Low Risk,64788,No
+1077,Sales,Sales Representative,2323,Yes,2,4,3,0.8244044403751403, High Risk,13938,Yes
+1079,Research & Development,Laboratory Technician,1416,No,1,1,2,0.8760218162658358, High Risk,8496,Yes
+1080,Research & Development,Research Scientist,4615,Yes,16,1,3,0.05388447207199488, Low Risk,27690,No
+1081,Research & Development,Research Scientist,2461,Yes,10,3,4,0.17757858921824635, Low Risk,14766,Yes
+1082,Research & Development,Healthcare Representative,8722,No,10,1,2,0.153481292939406, Low Risk,52332,Yes
+1083,Research & Development,Laboratory Technician,3955,No,5,1,3,0.12272794950689464, Low Risk,23730,No
+1084,Research & Development,Manufacturing Director,9957,No,6,1,2,0.11019015671293328, Low Risk,59742,No
+1085,Research & Development,Research Scientist,3376,No,10,3,3,0.1066053219922427, Low Risk,20256,No
+1088,Research & Development,Healthcare Representative,8823,No,19,3,2,0.06554097503344485, Low Risk,52938,No
+1092,Research & Development,Healthcare Representative,10322,No,11,4,3,0.08330266338606532, Low Risk,61932,No
+1094,Research & Development,Laboratory Technician,4621,No,3,3,3,0.11350877494285908, Low Risk,27726,No
+1096,Research & Development,Manufacturing Director,10976,No,3,2,3,0.0440018465243992, Low Risk,65856,No
+1097,Research & Development,Research Scientist,3660,No,8,3,4,0.18882896002915764, Low Risk,21960,No
+1098,Human Resources,Human Resources,10482,No,20,1,3,0.09197997844021837, Low Risk,62892,Yes
+1099,Research & Development,Healthcare Representative,7119,No,3,4,3,0.0863656117363971, Low Risk,42714,No
+1100,Sales,Sales Executive,9582,Yes,8,1,3,0.6934461100731281, High Risk,57492,Yes
+1101,Research & Development,Research Scientist,4508,No,13,3,3,0.591231737216125, Medium Risk,27048,Yes
+1102,Research & Development,Laboratory Technician,2207,No,4,3,2,0.1561541752041437, Low Risk,13242,No
+1103,Research & Development,Healthcare Representative,7756,No,6,4,2,0.06673443895232706, Low Risk,46536,No
+1105,Sales,Sales Executive,6694,Yes,1,4,3,0.2027834027884884, Low Risk,40164,No
+1106,Research & Development,Laboratory Technician,3691,Yes,7,4,4,0.6240402395336778, High Risk,22146,Yes
+1107,Research & Development,Laboratory Technician,2377,No,1,3,2,0.7749903160671842, High Risk,14262,Yes
+1108,Research & Development,Research Scientist,2313,Yes,2,2,3,0.8024074146139362, High Risk,13878,Yes
+1109,Research & Development,Manager,17665,No,22,1,3,0.030436650828116626, Low Risk,105990,No
+1111,Research & Development,Laboratory Technician,2596,No,1,2,3,0.7408510778826397, High Risk,15576,Yes
+1113,Sales,Sales Executive,4728,Yes,0,3,3,0.258882925509253, Low Risk,28368,Yes
+1114,Sales,Sales Executive,4302,No,3,2,3,0.0783638782856183, Low Risk,25812,No
+1115,Research & Development,Research Scientist,2979,No,0,4,3,0.11661571390393378, Low Risk,17874,No
+1116,Research & Development,Manager,16885,No,5,4,2,0.016231013304222157, Low Risk,101310,No
+1117,Sales,Sales Executive,5593,No,15,3,3,0.0684944694150877, Low Risk,33558,No
+1118,Research & Development,Healthcare Representative,10445,No,8,2,3,0.09914053791368627, Low Risk,62670,No
+1119,Sales,Sales Executive,8740,Yes,8,3,3,0.11008907863883484, Low Risk,52440,No
+1120,Research & Development,Research Scientist,2514,No,7,4,3,0.09774921934262634, Low Risk,15084,No
+1121,Research & Development,Manufacturing Director,7655,No,9,2,2,0.06906501359181759, Low Risk,45930,No
+1124,Sales,Manager,17465,No,12,3,3,0.1089001161111677, Low Risk,104790,No
+1125,Sales,Sales Executive,7351,No,1,2,3,0.2171699013537439, Low Risk,44106,No
+1126,Research & Development,Manufacturing Director,10820,No,8,1,3,0.0914646440818161, Low Risk,64920,No
+1127,Research & Development,Healthcare Representative,12169,No,18,4,3,0.5880082876919872, Medium Risk,73014,Yes
+1128,Research & Development,Research Director,19626,No,20,3,4,0.045057602660072284, Low Risk,117756,No
+1131,Research & Development,Research Scientist,2070,Yes,2,2,4,0.34123376152244395, Medium Risk,12420,No
+1132,Research & Development,Laboratory Technician,6782,No,5,2,2,0.17601993947431022, Low Risk,40692,No
+1133,Research & Development,Manufacturing Director,7779,No,11,4,3,0.10297730184461253, Low Risk,46674,No
+1135,Sales,Sales Representative,2791,No,2,4,3,0.28915066085348573, Low Risk,16746,No
+1136,Research & Development,Research Scientist,3201,No,5,2,1,0.23872031645869324, Low Risk,19206,No
+1137,Sales,Sales Executive,4968,No,5,4,3,0.05357448304413042, Low Risk,29808,No
+1138,Sales,Sales Executive,13120,No,9,2,3,0.16355416427425562, Low Risk,78720,No
+1140,Research & Development,Manufacturing Director,4033,No,3,3,2,0.1405673085984057, Low Risk,24198,No
+1143,Research & Development,Research Scientist,3291,No,7,2,2,0.08675161825280506, Low Risk,19746,No
+1148,Research & Development,Laboratory Technician,4272,No,1,4,3,0.25683998410310094, Low Risk,25632,No
+1150,Research & Development,Manufacturing Director,5056,Yes,10,4,2,0.12444536489330277, Low Risk,30336,No
+1152,Human Resources,Human Resources,2844,No,7,3,4,0.10352052396370294, Low Risk,17064,No
+1154,Research & Development,Research Scientist,2703,Yes,3,3,3,0.3315452079120732, Medium Risk,16218,No
+1156,Research & Development,Laboratory Technician,1904,No,0,3,3,0.7451743567846482, High Risk,11424,Yes
+1157,Sales,Sales Executive,8224,Yes,5,1,3,0.42666832124705595, Medium Risk,49344,Yes
+1158,Research & Development,Laboratory Technician,4766,Yes,1,4,3,0.1873751203324052, Low Risk,28596,No
+1160,Research & Development,Laboratory Technician,2610,No,2,3,2,0.5968241509130128, Medium Risk,15660,Yes
+1161,Research & Development,Healthcare Representative,5731,No,6,4,3,0.11504742827114885, Low Risk,34386,No
+1162,Research & Development,Research Scientist,2539,No,4,3,3,0.11644295802883443, Low Risk,15234,No
+1163,Sales,Sales Executive,5714,No,6,3,2,0.1185205456267045, Low Risk,34284,No
+1164,Human Resources,Human Resources,4323,No,5,3,1,0.1465736370038555, Low Risk,25938,No
+1165,Sales,Sales Executive,7336,No,11,1,1,0.5732401911450455, Medium Risk,44016,Yes
+1166,Research & Development,Research Director,13499,No,18,3,2,0.07020797824606127, Low Risk,80994,No
+1167,Sales,Sales Executive,13758,Yes,21,1,2,0.6406398278314717, High Risk,82548,Yes
+1171,Sales,Sales Executive,5155,No,6,1,4,0.1442508954761697, Low Risk,30930,No
+1172,Research & Development,Laboratory Technician,2258,No,8,3,3,0.10595884027351475, Low Risk,13548,No
+1173,Research & Development,Laboratory Technician,3597,No,4,2,3,0.30542190889594234, Medium Risk,21582,No
+1175,Research & Development,Laboratory Technician,2515,Yes,1,4,2,0.7278585113576962, High Risk,15090,Yes
+1177,Research & Development,Laboratory Technician,4420,No,8,4,3,0.10198611689707356, Low Risk,26520,No
+1179,Sales,Sales Executive,6578,No,10,3,3,0.11029249980015, Low Risk,39468,No
+1180,Research & Development,Research Scientist,4422,Yes,1,4,1,0.18674164324344056, Low Risk,26532,No
+1182,Research & Development,Manufacturing Director,10274,No,7,2,4,0.056047984835035036, Low Risk,61644,No
+1184,Research & Development,Healthcare Representative,5343,No,13,1,3,0.05957106134679643, Low Risk,32058,No
+1185,Research & Development,Laboratory Technician,2376,No,2,4,4,0.11300655858514089, Low Risk,14256,No
+1188,Sales,Sales Executive,5346,No,4,3,2,0.744968055177215, High Risk,32076,Yes
+1190,Sales,Sales Representative,2827,No,1,1,3,0.3151315597346034, Medium Risk,16962,No
+1191,Research & Development,Manager,19943,No,5,1,3,0.14164423223775108, Low Risk,119658,No
+1192,Research & Development,Laboratory Technician,3131,No,10,4,3,0.07553203823209328, Low Risk,18786,No
+1193,Research & Development,Research Scientist,2552,No,1,1,3,0.4574198316599228, Medium Risk,15312,No
+1195,Research & Development,Research Scientist,4477,Yes,3,3,2,0.2198573690760734, Low Risk,26862,No
+1196,Research & Development,Manufacturing Director,6474,No,14,4,2,0.028086851545572937, Low Risk,38844,No
+1198,Research & Development,Laboratory Technician,3033,No,2,3,2,0.3469071033049926, Medium Risk,18198,No
+1200,Research & Development,Research Scientist,2936,Yes,6,3,3,0.6256376165324179, High Risk,17616,Yes
+1201,Research & Development,Manager,18606,No,7,3,3,0.036818330642289405, Low Risk,111636,No
+1202,Research & Development,Research Scientist,2168,Yes,5,4,2,0.2625290523284297, Low Risk,13008,No
+1203,Research & Development,Research Scientist,2853,Yes,0,4,3,0.44083679239219825, Medium Risk,17118,Yes
+1204,Sales,Manager,17048,No,26,1,3,0.11747809275143414, Low Risk,102288,No
+1206,Research & Development,Research Scientist,2290,No,0,3,3,0.2356479542923711, Low Risk,13740,No
+1207,Human Resources,Human Resources,3600,No,5,3,3,0.1109812656432074, Low Risk,21600,No
+1210,Research & Development,Research Scientist,2107,No,1,1,1,0.31105135658587746, Medium Risk,12642,Yes
+1211,Sales,Sales Executive,4115,No,4,1,3,0.1528140542721972, Low Risk,24690,No
+1212,Sales,Sales Executive,4327,No,0,2,3,0.11036609703650459, Low Risk,25962,No
+1215,Research & Development,Manager,17856,No,2,1,3,0.05164027296668495, Low Risk,107136,No
+1216,Research & Development,Laboratory Technician,3196,No,6,1,3,0.11400850084058103, Low Risk,19176,No
+1217,Research & Development,Research Director,19081,No,4,2,3,0.07035261375018663, Low Risk,114486,No
+1218,Sales,Sales Executive,8966,Yes,7,1,3,0.1110796707084438, Low Risk,53796,No
+1219,Research & Development,Laboratory Technician,2210,No,1,2,1,0.7729656043099883, High Risk,13260,Yes
+1220,Sales,Sales Executive,4539,No,10,3,2,0.08755922874148242, Low Risk,27234,No
+1221,Research & Development,Laboratory Technician,2741,No,7,3,3,0.11645895942693274, Low Risk,16446,No
+1224,Research & Development,Laboratory Technician,3491,No,10,3,2,0.13777923574404471, Low Risk,20946,No
+1225,Research & Development,Research Scientist,4541,No,20,4,3,0.13242255997147637, Low Risk,27246,No
+1226,Sales,Sales Representative,2678,No,2,4,3,0.2603232138452773, Low Risk,16068,No
+1228,Research & Development,Manufacturing Director,7379,No,6,4,2,0.06367115980481546, Low Risk,44274,No
+1231,Human Resources,Human Resources,6272,No,4,1,4,0.11043062723392495, Low Risk,37632,No
+1233,Sales,Sales Executive,5220,Yes,11,4,3,0.12031867390794812, Low Risk,31320,No
+1234,Research & Development,Laboratory Technician,2743,No,2,2,3,0.27884111751623936, Low Risk,16458,No
+1235,Research & Development,Research Scientist,4998,Yes,8,3,3,0.12217553968734174, Low Risk,29988,No
+1237,Research & Development,Manufacturing Director,10252,Yes,7,1,3,0.07422041066195222, Low Risk,61512,No
+1238,Research & Development,Research Scientist,2781,No,14,4,3,0.07772192869954611, Low Risk,16686,No
+1239,Sales,Sales Executive,6852,No,5,2,4,0.13361395240963408, Low Risk,41112,No
+1240,Sales,Sales Executive,4950,No,4,4,3,0.10202224272473626, Low Risk,29700,No
+1241,Research & Development,Research Scientist,3579,Yes,11,2,3,0.09819714643640108, Low Risk,21474,No
+1242,Research & Development,Research Director,13191,Yes,1,1,3,0.12330594047069075, Low Risk,79146,No
+1243,Sales,Sales Executive,10377,Yes,13,4,2,0.12644094451348953, Low Risk,62262,No
+1244,Research & Development,Research Scientist,2235,Yes,9,1,2,0.23576643705916278, Low Risk,13410,No
+1245,Research & Development,Manufacturing Director,10502,No,5,3,1,0.06887749586447527, Low Risk,63012,No
+1246,Research & Development,Research Scientist,2011,No,10,4,3,0.14936846991599112, Low Risk,12066,No
+1248,Research & Development,Research Scientist,1859,Yes,1,2,4,0.8577709449732602, High Risk,11154,Yes
+1249,Research & Development,Research Scientist,3760,No,3,4,3,0.08013893907141459, Low Risk,22560,No
+1250,Research & Development,Research Director,17779,No,10,4,3,0.03873033790864161, Low Risk,106674,No
+1251,Research & Development,Healthcare Representative,6833,Yes,6,1,2,0.15180217791398293, Low Risk,40998,No
+1252,Research & Development,Healthcare Representative,6812,No,10,1,3,0.15111857352174943, Low Risk,40872,No
+1254,Sales,Sales Executive,5171,No,6,4,3,0.23377546821015563, Low Risk,31026,No
+1255,Research & Development,Research Director,19740,No,8,4,3,0.06917157443076337, Low Risk,118440,No
+1256,Research & Development,Manager,18711,No,1,3,4,0.08734649400219674, Low Risk,112266,No
+1257,Research & Development,Research Scientist,3692,No,11,2,2,0.09762175443072951, Low Risk,22152,No
+1258,Research & Development,Laboratory Technician,2559,No,1,2,2,0.26621287813167904, Low Risk,15354,No
+1259,Research & Development,Research Scientist,2517,No,5,3,3,0.09345556084213262, Low Risk,15102,No
+1260,Research & Development,Healthcare Representative,6623,Yes,6,4,3,0.10847677483839195, Low Risk,39738,No
+1263,Research & Development,Research Director,18265,No,1,4,4,0.05488519956117224, Low Risk,109590,No
+1264,Research & Development,Research Director,16124,No,7,4,2,0.04073810523427498, Low Risk,96744,No
+1265,Research & Development,Research Scientist,2585,No,1,3,2,0.27465630020334914, Low Risk,15510,No
+1267,Sales,Manager,18213,No,22,2,3,0.04186956341828053, Low Risk,109278,No
+1268,Sales,Sales Executive,8380,Yes,9,3,3,0.07318630645853166, Low Risk,50280,No
+1269,Research & Development,Research Scientist,2994,Yes,1,4,3,0.5221612942824305, Medium Risk,17964,No
+1270,Research & Development,Research Scientist,1223,No,1,3,3,0.3346646781457005, Medium Risk,7338,No
+1273,Sales,Sales Representative,1118,Yes,1,4,3,0.8256683463251785, High Risk,6708,Yes
+1275,Research & Development,Research Scientist,2875,Yes,8,4,2,0.26525476208079013, Low Risk,17250,No
+1277,Sales,Manager,18824,Yes,24,2,3,0.6441714116511661, High Risk,112944,Yes
+1278,Research & Development,Healthcare Representative,13577,Yes,33,2,3,0.07917979385824826, Low Risk,81462,No
+1279,Research & Development,Laboratory Technician,2625,No,2,3,1,0.7323519307627788, High Risk,15750,Yes
+1280,Sales,Manager,18789,No,11,2,3,0.06886120285376092, Low Risk,112734,No
+1281,Sales,Sales Executive,4538,Yes,3,1,3,0.2067678459044474, Low Risk,27228,No
+1282,Sales,Manager,19847,Yes,29,2,2,0.10210642697479173, Low Risk,119082,No
+1283,Research & Development,Manufacturing Director,10512,No,9,4,2,0.11150819043149371, Low Risk,63072,No
+1285,Research & Development,Laboratory Technician,4444,No,11,2,4,0.07352020445535654, Low Risk,26664,No
+1286,Research & Development,Laboratory Technician,2154,Yes,4,3,2,0.23517643396797067, Low Risk,12924,No
+1288,Research & Development,Manager,19190,No,25,1,2,0.02522925407602584, Low Risk,115140,No
+1289,Human Resources,Human Resources,4490,No,10,2,4,0.06008802690582022, Low Risk,26940,No
+1291,Research & Development,Research Scientist,3506,Yes,3,3,3,0.18518435085053767, Low Risk,21036,No
+1292,Research & Development,Research Scientist,2372,Yes,1,2,3,0.21880920567287337, Low Risk,14232,No
+1293,Sales,Sales Executive,10231,No,21,4,4,0.12996242588859425, Low Risk,61386,No
+1294,Research & Development,Manufacturing Director,5410,Yes,16,2,3,0.1323495671191476, Low Risk,32460,No
+1295,Research & Development,Healthcare Representative,7978,No,10,4,3,0.5269424641820663, Medium Risk,47868,Yes
+1296,Research & Development,Laboratory Technician,3867,Yes,2,4,3,0.37572203646334384, Medium Risk,23202,No
+1297,Research & Development,Laboratory Technician,2838,No,7,3,2,0.16638727226244243, Low Risk,17028,No
+1298,Research & Development,Manufacturing Director,4695,Yes,8,3,3,0.1767759402533321, Low Risk,28170,No
+1299,Research & Development,Laboratory Technician,3339,Yes,7,3,3,0.6598308997814374, High Risk,20034,Yes
+1301,Research & Development,Research Scientist,2080,No,3,1,2,0.20365078804632097, Low Risk,12480,No
+1303,Research & Development,Research Scientist,2096,No,2,2,2,0.43435470676912763, Medium Risk,12576,No
+1304,Sales,Sales Executive,6209,No,10,4,4,0.0727323454169383, Low Risk,37254,No
+1306,Research & Development,Manager,18061,No,0,2,3,0.06826239949333752, Low Risk,108366,No
+1307,Research & Development,Manager,17123,Yes,19,2,3,0.04880291928809259, Low Risk,102738,No
+1308,Research & Development,Research Scientist,2372,No,2,3,3,0.13546904018585595, Low Risk,14232,No
+1309,Research & Development,Laboratory Technician,4883,No,10,3,3,0.46523172854655376, Medium Risk,29298,Yes
+1310,Research & Development,Research Scientist,3904,No,5,1,3,0.5917531817689327, Medium Risk,23424,Yes
+1311,Research & Development,Laboratory Technician,4627,No,9,4,3,0.10401143204332586, Low Risk,27762,No
+1312,Research & Development,Healthcare Representative,7094,No,7,3,3,0.1043897010959225, Low Risk,42564,No
+1314,Human Resources,Human Resources,3423,No,7,1,4,0.15044101224863984, Low Risk,20538,No
+1315,Research & Development,Laboratory Technician,6674,No,9,4,3,0.07327418845067622, Low Risk,40044,No
+1317,Research & Development,Research Director,16880,Yes,3,1,3,0.11727337977146597, Low Risk,101280,No
+1318,Sales,Sales Executive,9094,Yes,5,2,3,0.46687279691811506, Medium Risk,54564,Yes
+1319,Sales,Sales Executive,8446,Yes,8,2,2,0.7262444024569947, High Risk,50676,Yes
+1321,Research & Development,Manager,11916,Yes,9,1,3,0.1345879400727263, Low Risk,71496,No
+1322,Research & Development,Manufacturing Director,4534,No,8,3,3,0.14128882381930985, Low Risk,27204,No
+1324,Sales,Sales Executive,9852,Yes,10,3,2,0.1574689733515509, Low Risk,59112,No
+1329,Sales,Sales Executive,6151,No,19,2,3,0.1430808459834795, Low Risk,36906,No
+1331,Sales,Sales Representative,2302,Yes,3,2,4,0.6884689771674973, High Risk,13812,Yes
+1333,Research & Development,Laboratory Technician,2362,No,3,1,4,0.29849258899598136, Low Risk,14172,Yes
+1334,Research & Development,Manager,17861,Yes,20,3,2,0.09161958979529278, Low Risk,107166,No
+1336,Research & Development,Manager,19187,No,19,3,3,0.1297627846000902, Low Risk,115122,No
+1338,Human Resources,Manager,19717,No,7,2,3,0.14747413977511642, Low Risk,118302,No
+1340,Research & Development,Research Scientist,3544,No,4,3,3,0.1297952867533279, Low Risk,21264,No
+1344,Research & Development,Healthcare Representative,8500,No,9,4,2,0.1100697232263545, Low Risk,51000,No
+1346,Research & Development,Research Scientist,4661,No,9,4,3,0.06505572216518846, Low Risk,27966,No
+1349,Sales,Sales Executive,4103,No,9,1,3,0.08172897833537053, Low Risk,24618,No
+1350,Research & Development,Research Scientist,4249,Yes,9,3,3,0.2257842168097832, Low Risk,25494,No
+1352,Human Resources,Manager,14026,Yes,33,2,3,0.06098561052957186, Low Risk,84156,No
+1355,Sales,Sales Executive,6893,No,7,1,3,0.08502270413601114, Low Risk,41358,No
+1356,Sales,Sales Executive,6125,No,10,1,4,0.15854014412734443, Low Risk,36750,No
+1358,Research & Development,Laboratory Technician,3669,No,3,4,2,0.2070190392579211, Low Risk,22014,No
+1360,Research & Development,Manufacturing Director,10008,Yes,10,1,2,0.5877001422614905, Medium Risk,60048,Yes
+1361,Research & Development,Laboratory Technician,2387,No,4,2,3,0.13969267472496316, Low Risk,14322,No
+1362,Sales,Sales Executive,4639,No,15,1,2,0.11512618687859662, Low Risk,27834,No
+1363,Research & Development,Manufacturing Director,7898,No,10,4,3,0.07110992502004762, Low Risk,47388,No
+1364,Sales,Sales Representative,2534,No,1,4,3,0.20374946054623252, Low Risk,15204,No
+1367,Research & Development,Manufacturing Director,13142,No,5,2,2,0.07101331690544412, Low Risk,78852,No
+1368,Research & Development,Laboratory Technician,1611,No,0,4,4,0.4321359725473421, Medium Risk,9666,No
+1369,Research & Development,Laboratory Technician,5363,No,9,4,3,0.10091098396652333, Low Risk,32178,No
+1371,Sales,Sales Executive,5071,No,6,4,3,0.15835502070658214, Low Risk,30426,No
+1372,Sales,Sales Executive,13695,Yes,19,3,2,0.7406168724249308, High Risk,82170,Yes
+1373,Research & Development,Manufacturing Director,13402,Yes,19,2,3,0.12392761130524811, Low Risk,80412,No
+1374,Research & Development,Research Scientist,2029,No,5,3,3,0.12983008335181037, Low Risk,12174,No
+1375,Research & Development,Healthcare Representative,6377,No,12,3,3,0.0685651594278493, Low Risk,38262,No
+1377,Research & Development,Laboratory Technician,5429,No,8,3,3,0.12833836211480257, Low Risk,32574,No
+1379,Sales,Sales Representative,2785,No,1,4,4,0.7845282204010285, High Risk,16710,Yes
+1380,Sales,Sales Executive,4614,Yes,4,3,2,0.6423963857187529, High Risk,27684,Yes
+1382,Research & Development,Research Scientist,2610,No,4,3,3,0.072938190358587, Low Risk,15660,No
+1383,Research & Development,Healthcare Representative,6687,No,14,4,4,0.06031888879030313, Low Risk,40122,No
+1387,Sales,Sales Executive,4724,No,5,1,3,0.1786405206241421, Low Risk,28344,No
+1389,Research & Development,Manufacturing Director,6179,Yes,10,3,2,0.1928498949066065, Low Risk,37074,Yes
+1390,Sales,Sales Executive,6120,Yes,5,4,4,0.16988664986034338, Low Risk,36720,No
+1391,Sales,Sales Executive,10596,No,4,2,3,0.3011406154802909, Medium Risk,63576,No
+1392,Research & Development,Research Scientist,5467,Yes,6,4,2,0.09612496302196238, Low Risk,32802,No
+1394,Research & Development,Research Scientist,2996,Yes,6,3,3,0.20384499583324445, Low Risk,17976,No
+1395,Sales,Sales Executive,9998,No,5,4,4,0.15330306368478097, Low Risk,59988,No
+1396,Sales,Sales Executive,4078,Yes,3,2,2,0.23224450900489163, Low Risk,24468,No
+1397,Research & Development,Healthcare Representative,10920,No,6,3,3,0.07815332860645699, Low Risk,65520,No
+1399,Sales,Sales Executive,6232,No,3,3,2,0.2547815552935251, Low Risk,37392,No
+1401,Research & Development,Manufacturing Director,13247,Yes,5,3,2,0.09795666802894257, Low Risk,79482,No
+1402,Research & Development,Research Scientist,4081,Yes,20,3,1,0.15804007620676372, Low Risk,24486,No
+1403,Sales,Sales Executive,5769,Yes,6,4,3,0.20462736729010783, Low Risk,34614,No
+1405,Research & Development,Research Scientist,2394,Yes,8,3,3,0.718972489563078, High Risk,14364,Yes
+1407,Research & Development,Research Scientist,3904,No,4,4,3,0.12227026051281277, Low Risk,23424,No
+1408,Human Resources,Manager,16799,No,20,1,3,0.03519578766628202, Low Risk,100794,No
+1409,Research & Development,Laboratory Technician,2950,No,5,1,1,0.2114950697378284, Low Risk,17700,No
+1411,Research & Development,Laboratory Technician,3629,No,3,3,3,0.23996367453034634, Low Risk,21774,No
+1412,Research & Development,Manufacturing Director,9362,No,2,4,3,0.1503678557853664, Low Risk,56172,No
+1415,Research & Development,Laboratory Technician,3229,No,3,4,2,0.18731783504171814, Low Risk,19374,No
+1417,Research & Development,Laboratory Technician,3578,No,7,1,3,0.16322473575918636, Low Risk,21468,No
+1419,Human Resources,Human Resources,7988,No,10,1,2,0.1566958289438315, Low Risk,47928,No
+1420,Research & Development,Laboratory Technician,4284,No,4,1,3,0.6052583336060975, High Risk,25704,Yes
+1421,Research & Development,Healthcare Representative,7553,Yes,8,4,3,0.6015293363816411, High Risk,45318,Yes
+1422,Research & Development,Research Director,17328,No,20,4,2,0.04386311699655393, Low Risk,103968,No
+1423,Research & Development,Research Director,19701,Yes,9,1,3,0.12204787029275177, Low Risk,118206,No
+1424,Research & Development,Research Director,14732,No,7,4,4,0.04205326543782846, Low Risk,88392,No
+1425,Sales,Sales Executive,9278,Yes,5,2,3,0.21578458222853528, Low Risk,55668,No
+1427,Sales,Sales Representative,1359,No,1,3,3,0.8966960850856364, High Risk,8154,Yes
+1428,Sales,Sales Executive,4779,No,3,1,3,0.13295426125807763, Low Risk,28674,No
+1430,Research & Development,Research Director,16422,No,3,2,4,0.16092202993412727, Low Risk,98532,No
+1431,Research & Development,Research Scientist,2996,No,4,1,3,0.09164604255333313, Low Risk,17976,No
+1433,Research & Development,Research Scientist,1261,No,1,2,4,0.8821216156261485, High Risk,7566,Yes
+1434,Research & Development,Laboratory Technician,2099,No,5,1,4,0.1585055615204575, Low Risk,12594,No
+1435,Research & Development,Laboratory Technician,5810,No,10,4,2,0.10350099795703543, Low Risk,34860,No
+1436,Sales,Sales Executive,5647,No,3,1,2,0.14080977415255283, Low Risk,33882,No
+1438,Research & Development,Research Scientist,3420,No,6,4,2,0.10899982781861725, Low Risk,20520,No
+1439,Sales,Sales Representative,4400,No,3,1,3,0.3719937525388265, Medium Risk,26400,Yes
+1440,Research & Development,Laboratory Technician,3500,No,6,3,1,0.14249358332946355, Low Risk,21000,No
+1441,Research & Development,Research Scientist,2066,No,3,1,4,0.19738984214851643, Low Risk,12396,No
+1443,Research & Development,Research Director,17169,No,20,3,4,0.08891798714745763, Low Risk,103014,No
+1445,Sales,Sales Executive,4162,Yes,5,3,3,0.13894028744430467, Low Risk,24972,No
+1446,Sales,Sales Executive,9204,No,4,4,2,0.11849453548539607, Low Risk,55224,No
+1447,Research & Development,Laboratory Technician,3294,No,5,2,2,0.1135282388694644, Low Risk,19764,No
+1448,Research & Development,Research Scientist,2127,Yes,4,3,2,0.335922286485177, Medium Risk,12762,No
+1449,Research & Development,Laboratory Technician,3975,No,8,3,4,0.07480876865387721, Low Risk,23850,No
+1453,Sales,Sales Executive,10793,No,13,4,3,0.13984441862429411, Low Risk,64758,No
+1457,Sales,Sales Executive,10096,No,7,4,4,0.6643732646246245, High Risk,60576,Yes
+1458,Research & Development,Laboratory Technician,3646,Yes,1,1,4,0.7904770034647083, High Risk,21876,Yes
+1459,Research & Development,Manufacturing Director,7446,No,10,2,3,0.6414429993856376, High Risk,44676,Yes
+1460,Research & Development,Healthcare Representative,10851,Yes,7,1,3,0.07442576489351771, Low Risk,65106,No
+1461,Human Resources,Human Resources,2109,No,3,2,3,0.25419178382572544, Low Risk,12654,No
+1464,Research & Development,Laboratory Technician,3722,Yes,2,4,1,0.7253076481015008, High Risk,22332,Yes
+1465,Research & Development,Manufacturing Director,9380,Yes,3,4,4,0.1438286114453733, Low Risk,56280,No
+1466,Sales,Sales Executive,5486,No,2,1,3,0.10586197824789922, Low Risk,32916,No
+1467,Human Resources,Human Resources,2742,No,2,3,3,0.6510947299586662, High Risk,16452,Yes
+1468,Research & Development,Research Director,13757,No,9,2,3,0.11732674772289978, Low Risk,82542,No
+1469,Sales,Sales Executive,8463,No,5,1,3,0.15305517115775447, Low Risk,50778,No
+1471,Research & Development,Laboratory Technician,3162,No,5,3,3,0.12666643937654934, Low Risk,18972,No
+1472,Research & Development,Research Director,16598,No,9,2,2,0.0762605541126149, Low Risk,99588,No
+1473,Research & Development,Healthcare Representative,6651,No,3,3,2,0.08147242795909004, Low Risk,39906,No
+1474,Research & Development,Research Scientist,2345,No,3,3,4,0.0836004587395558, Low Risk,14070,No
+1475,Research & Development,Research Scientist,3420,No,5,2,2,0.17029864127025807, Low Risk,20520,No
+1477,Sales,Sales Executive,4373,No,4,1,3,0.136952608306878, Low Risk,26238,No
+1478,Sales,Sales Executive,4759,No,13,1,3,0.213117558698547, Low Risk,28554,No
+1479,Sales,Sales Executive,5301,No,2,3,2,0.14158728160013134, Low Risk,31806,No
+1480,Research & Development,Laboratory Technician,3673,No,12,4,3,0.1320314154738444, Low Risk,22038,No
+1481,Sales,Sales Executive,4768,No,1,3,2,0.18293376193452274, Low Risk,28608,No
+1482,Research & Development,Research Scientist,1274,No,1,3,2,0.20131035318867327, Low Risk,7644,No
+1483,Research & Development,Research Scientist,4900,No,12,3,2,0.10486235989536746, Low Risk,29400,No
+1484,Research & Development,Healthcare Representative,10466,No,8,2,3,0.06931217704141719, Low Risk,62796,No
+1485,Research & Development,Research Director,17007,No,14,1,2,0.12211531384982548, Low Risk,102042,No
+1486,Sales,Sales Representative,2909,No,3,3,4,0.6419742244661765, High Risk,17454,Yes
+1487,Sales,Sales Executive,5765,No,5,2,1,0.7420533422758224, High Risk,34590,Yes
+1489,Sales,Sales Executive,4599,Yes,15,2,4,0.6697258870727255, High Risk,27594,Yes
+1492,Sales,Sales Representative,2404,No,1,3,3,0.31938989382041205, Medium Risk,14424,No
+1494,Research & Development,Laboratory Technician,3172,Yes,0,1,2,0.8249075119070329, High Risk,19032,Yes
+1495,Sales,Sales Representative,2033,No,1,2,3,0.57498374929929, Medium Risk,12198,No
+1496,Research & Development,Manufacturing Director,10209,Yes,2,3,2,0.1924221543411329, Low Risk,61254,No
+1497,Sales,Sales Executive,8620,No,10,3,3,0.060566506361327856, Low Risk,51720,No
+1499,Human Resources,Human Resources,2064,No,5,3,4,0.16092873627942061, Low Risk,12384,No
+1501,Research & Development,Healthcare Representative,4035,Yes,3,3,3,0.11828764756817017, Low Risk,24210,No
+1502,Research & Development,Laboratory Technician,3838,No,5,2,3,0.21754435006465253, Low Risk,23028,No
+1503,Sales,Sales Executive,4591,Yes,5,3,2,0.20177437897888278, Low Risk,27546,No
+1504,Research & Development,Laboratory Technician,2561,No,0,1,2,0.7718632751392, High Risk,15366,Yes
+1506,Research & Development,Research Scientist,1563,No,1,3,1,0.281993333973519, Low Risk,9378,No
+1507,Sales,Sales Executive,4898,No,4,1,3,0.17277105758501407, Low Risk,29388,No
+1509,Research & Development,Laboratory Technician,4789,No,3,1,3,0.10939437346614689, Low Risk,28734,No
+1513,Research & Development,Laboratory Technician,3180,No,3,2,3,0.14233732242455163, Low Risk,19080,No
+1514,Research & Development,Manufacturing Director,6549,No,8,2,2,0.15602013226209263, Low Risk,39294,No
+1515,Research & Development,Healthcare Representative,6388,Yes,0,3,3,0.24625726214402985, Low Risk,38328,No
+1516,Research & Development,Manager,11244,No,5,4,4,0.11914549041212283, Low Risk,67464,No
+1520,Research & Development,Manager,16032,No,14,4,3,0.02058344397428764, Low Risk,96192,No
+1522,Research & Development,Research Scientist,2362,No,9,1,1,0.6650376226122029, High Risk,14172,Yes
+1523,Research & Development,Research Director,16328,No,20,1,4,0.10455238394926561, Low Risk,97968,No
+1525,Research & Development,Manufacturing Director,8376,No,2,2,3,0.11123262808624503, Low Risk,50256,No
+1527,Sales,Manager,16606,No,13,2,4,0.171264663148918, Low Risk,99636,No
+1529,Research & Development,Healthcare Representative,8606,No,11,2,1,0.13969258781837954, Low Risk,51636,No
+1533,Research & Development,Laboratory Technician,2272,No,4,3,3,0.1368248668351314, Low Risk,13632,No
+1534,Research & Development,Laboratory Technician,2018,No,5,1,1,0.6707886662896445, High Risk,12108,Yes
+1535,Sales,Sales Executive,7083,Yes,10,3,3,0.16341348926878752, Low Risk,42498,No
+1537,Research & Development,Research Scientist,4084,No,7,3,1,0.6397896560716522, High Risk,24504,Yes
+1539,Research & Development,Research Director,14411,Yes,32,4,3,0.14208969442080763, Low Risk,86466,No
+1541,Sales,Sales Representative,2308,Yes,11,3,3,0.13209956634226946, Low Risk,13848,No
+1542,Research & Development,Laboratory Technician,4841,No,1,2,3,0.11476195350422136, Low Risk,29046,No
+1543,Research & Development,Research Scientist,4285,No,10,4,3,0.20511261944552409, Low Risk,25710,No
+1544,Research & Development,Healthcare Representative,9715,No,7,1,3,0.10017745984107064, Low Risk,58290,No
+1545,Research & Development,Manufacturing Director,4320,No,5,2,3,0.1247041803501585, Low Risk,25920,No
+1546,Research & Development,Research Scientist,2132,No,5,4,3,0.09458302792890796, Low Risk,12792,No
+1547,Research & Development,Healthcare Representative,10124,Yes,20,4,1,0.0685193126295148, Low Risk,60744,No
+1548,Sales,Sales Executive,5473,No,8,1,4,0.1429727652930969, Low Risk,32838,No
+1549,Research & Development,Laboratory Technician,5207,Yes,15,3,3,0.09762864165431388, Low Risk,31242,No
+1550,Human Resources,Manager,16437,Yes,21,4,3,0.07198096280750606, Low Risk,98622,No
+1551,Research & Development,Laboratory Technician,2296,No,1,1,3,0.44235593828425535, Medium Risk,13776,No
+1552,Research & Development,Healthcare Representative,4069,Yes,2,4,3,0.15643903082655686, Low Risk,24414,No
+1553,Research & Development,Healthcare Representative,7441,No,10,2,3,0.10107361528666142, Low Risk,44646,No
+1554,Sales,Sales Representative,2430,No,5,3,3,0.16686328543816326, Low Risk,14580,No
+1555,Research & Development,Research Scientist,5878,No,7,2,3,0.12575361689277284, Low Risk,35268,No
+1556,Sales,Sales Representative,2644,Yes,3,4,2,0.2478039676386555, Low Risk,15864,No
+1557,Sales,Sales Executive,6439,No,8,3,3,0.09716551339386921, Low Risk,38634,No
+1558,Research & Development,Research Scientist,2451,No,1,3,2,0.26992395717466444, Low Risk,14706,No
+1560,Sales,Sales Executive,6392,No,2,1,1,0.16458299912644114, Low Risk,38352,No
+1562,Sales,Sales Executive,9714,No,10,1,3,0.48646154865231295, Medium Risk,58284,Yes
+1563,Human Resources,Human Resources,6077,No,6,3,3,0.12706632619496672, Low Risk,36462,No
+1564,Research & Development,Laboratory Technician,2450,No,3,1,3,0.14969619474140297, Low Risk,14700,No
+1568,Sales,Sales Executive,9250,No,4,2,3,0.09938677430152, Low Risk,55500,No
+1569,Research & Development,Laboratory Technician,2074,Yes,1,1,3,0.744263130367566, High Risk,12444,Yes
+1572,Research & Development,Manufacturing Director,10169,No,33,4,3,0.0839857289085484, Low Risk,61014,Yes
+1573,Research & Development,Manufacturing Director,4855,No,5,2,3,0.5115730287985609, Medium Risk,29130,Yes
+1574,Research & Development,Research Scientist,4087,No,6,1,2,0.05805745503537673, Low Risk,24522,No
+1576,Research & Development,Research Scientist,2367,No,8,1,2,0.11455012370955792, Low Risk,14202,No
+1577,Research & Development,Research Scientist,2972,No,1,4,1,0.3099925355556986, Medium Risk,17832,No
+1578,Sales,Manager,19586,No,36,4,3,0.0668552785629305, Low Risk,117516,No
+1580,Research & Development,Research Scientist,5484,No,2,4,2,0.12033893628410461, Low Risk,32904,No
+1581,Research & Development,Research Scientist,2061,No,1,4,3,0.598306342518179, Medium Risk,12366,No
+1582,Sales,Sales Executive,9924,No,9,2,3,0.15458883359702574, Low Risk,59544,No
+1583,Sales,Sales Executive,4198,No,3,2,4,0.2039259059771958, Low Risk,25188,No
+1585,Sales,Sales Executive,6815,No,1,3,3,0.1778211186591756, Low Risk,40890,No
+1586,Research & Development,Laboratory Technician,4723,Yes,10,1,3,0.18243707556900632, Low Risk,28338,No
+1587,Research & Development,Healthcare Representative,6142,Yes,5,3,3,0.22879847106616463, Low Risk,36852,No
+1588,Sales,Sales Executive,8237,No,7,3,3,0.16730303755871387, Low Risk,49422,No
+1590,Research & Development,Healthcare Representative,8853,No,6,4,4,0.09289245731170201, Low Risk,53118,No
+1591,Sales,Manager,19331,Yes,1,3,3,0.09064704058764032, Low Risk,115986,No
+1592,Research & Development,Research Scientist,2073,No,2,3,3,0.12924963336953854, Low Risk,12438,No
+1594,Research & Development,Laboratory Technician,5562,Yes,3,1,3,0.14074291764939276, Low Risk,33372,No
+1595,Research & Development,Manager,19613,No,1,4,3,0.05945920612978146, Low Risk,117678,No
+1596,Research & Development,Laboratory Technician,3407,No,10,3,2,0.05743583969466941, Low Risk,20442,No
+1597,Research & Development,Healthcare Representative,5063,No,8,3,2,0.1364199808043373, Low Risk,30378,No
+1598,Sales,Sales Executive,4639,No,5,1,3,0.10867211740177553, Low Risk,27834,No
+1599,Research & Development,Laboratory Technician,4876,No,6,2,3,0.08804807582860245, Low Risk,29256,No
+1601,Research & Development,Laboratory Technician,2690,No,1,4,2,0.1395571356457184, Low Risk,16140,No
+1602,Sales,Manager,17567,No,26,1,1,0.14281598662248784, Low Risk,105402,No
+1604,Research & Development,Laboratory Technician,2408,Yes,1,2,3,0.8626251024311935, High Risk,14448,Yes
+1605,Research & Development,Research Scientist,2814,Yes,4,3,2,0.27241935719984606, Low Risk,16884,No
+1606,Research & Development,Healthcare Representative,11245,Yes,30,3,3,0.04683478017642262, Low Risk,67470,No
+1607,Research & Development,Research Scientist,3312,No,3,4,3,0.06889206974661817, Low Risk,19872,No
+1608,Research & Development,Research Director,19049,Yes,22,4,2,0.029247816948594543, Low Risk,114294,No
+1609,Research & Development,Research Scientist,2141,No,6,2,2,0.19606470051949182, Low Risk,12846,No
+1611,Research & Development,Laboratory Technician,5769,Yes,10,1,3,0.12515678620119863, Low Risk,34614,No
+1612,Sales,Sales Executive,4385,No,10,1,3,0.13421994544587373, Low Risk,26310,No
+1613,Sales,Sales Executive,5332,No,5,1,3,0.31286017288868373, Medium Risk,31992,No
+1614,Research & Development,Manufacturing Director,4663,Yes,3,3,3,0.2346157493028305, Low Risk,27978,No
+1615,Research & Development,Manufacturing Director,4724,No,9,4,3,0.10952414527366906, Low Risk,28344,No
+1617,Research & Development,Laboratory Technician,3211,No,9,1,2,0.1012368119695369, Low Risk,19266,No
+1618,Research & Development,Manufacturing Director,5377,No,7,1,3,0.05919288318373242, Low Risk,32262,No
+1619,Research & Development,Laboratory Technician,4066,No,7,1,3,0.1255440838358572, Low Risk,24396,No
+1621,Research & Development,Research Scientist,5208,No,16,1,3,0.1270426483471748, Low Risk,31248,No
+1622,Research & Development,Manufacturing Director,4877,No,5,1,2,0.13098395142228836, Low Risk,29262,No
+1623,Research & Development,Research Scientist,3117,No,2,4,3,0.1949868354443372, Low Risk,18702,No
+1624,Sales,Sales Representative,1569,Yes,0,4,4,0.9386964241005653, High Risk,9414,Yes
+1625,Human Resources,Manager,19658,No,5,3,3,0.04670955493550236, Low Risk,117948,No
+1627,Research & Development,Laboratory Technician,3069,No,10,3,3,0.06378429229347765, Low Risk,18414,No
+1628,Research & Development,Manufacturing Director,10435,No,18,3,3,0.06857467623200637, Low Risk,62610,No
+1630,Research & Development,Healthcare Representative,4148,No,14,3,3,0.04743794242266218, Low Risk,24888,No
+1631,Research & Development,Manufacturing Director,5768,No,4,3,2,0.08080525471060067, Low Risk,34608,No
+1633,Research & Development,Manufacturing Director,5042,No,9,3,1,0.15757872113107038, Low Risk,30252,No
+1635,Research & Development,Manufacturing Director,5770,No,10,4,3,0.05309298458116988, Low Risk,34620,No
+1638,Research & Development,Manufacturing Director,7756,Yes,5,3,4,0.08013135157011846, Low Risk,46536,No
+1639,Sales,Sales Executive,10306,No,13,1,3,0.6237023637838718, High Risk,61836,Yes
+1640,Research & Development,Research Scientist,3936,No,8,2,1,0.1741071137567047, Low Risk,23616,No
+1641,Research & Development,Manufacturing Director,7945,Yes,4,4,2,0.2521450187168284, Low Risk,47670,No
+1642,Human Resources,Human Resources,5743,Yes,10,4,3,0.16792342637876306, Low Risk,34458,No
+1644,Research & Development,Manager,15202,No,2,4,3,0.030640361919257227, Low Risk,91212,No
+1645,Sales,Sales Executive,5440,Yes,2,4,2,0.6898182346875479, High Risk,32640,Yes
+1646,Research & Development,Research Scientist,3760,Yes,6,4,3,0.445750059755871, Medium Risk,22560,No
+1647,Research & Development,Research Scientist,3517,No,3,3,3,0.2187677052820345, Low Risk,21102,No
+1648,Research & Development,Research Scientist,2580,No,4,4,2,0.13441957025342285, Low Risk,15480,No
+1649,Research & Development,Laboratory Technician,2166,Yes,4,1,1,0.7443413657851758, High Risk,12996,Yes
+1650,Sales,Sales Executive,5869,No,5,3,3,0.2872830399305236, Low Risk,35214,No
+1651,Research & Development,Healthcare Representative,8008,No,3,1,3,0.06149054010065697, Low Risk,48048,No
+1653,Research & Development,Manufacturing Director,5206,No,7,3,3,0.06956807308502294, Low Risk,31236,No
+1654,Research & Development,Manufacturing Director,5295,No,5,2,3,0.20725760939571436, Low Risk,31770,No
+1655,Research & Development,Research Director,16413,No,4,2,3,0.05410876936399008, Low Risk,98478,No
+1656,Research & Development,Research Director,13269,No,14,1,3,0.05491398634189047, Low Risk,79614,No
+1657,Sales,Sales Representative,2783,No,2,3,3,0.31617479956669714, Medium Risk,16698,No
+1658,Research & Development,Research Scientist,5433,No,11,2,3,0.02381884330641201, Low Risk,32598,No
+1659,Research & Development,Laboratory Technician,2013,No,4,2,3,0.2047959567486305, Low Risk,12078,No
+1661,Research & Development,Healthcare Representative,13966,Yes,15,3,3,0.04401439491161154, Low Risk,83796,No
+1662,Research & Development,Manufacturing Director,4374,No,3,3,3,0.046221511234060875, Low Risk,26244,No
+1664,Research & Development,Healthcare Representative,6842,No,5,1,3,0.06355856460768504, Low Risk,41052,No
+1665,Research & Development,Manager,17426,No,10,3,3,0.01814006916700106, Low Risk,104556,No
+1666,Research & Development,Research Director,17603,No,14,3,3,0.04357456131843015, Low Risk,105618,No
+1667,Sales,Sales Executive,4581,Yes,11,4,4,0.3175255144218931, Medium Risk,27486,Yes
+1668,Research & Development,Research Scientist,4735,No,13,4,4,0.03114580251680131, Low Risk,28410,No
+1669,Sales,Sales Executive,4187,Yes,10,2,2,0.14112784496252215, Low Risk,25122,No
+1670,Sales,Sales Executive,5505,No,6,4,3,0.062360793764360316, Low Risk,33030,No
+1671,Research & Development,Research Scientist,5470,No,9,2,2,0.07410217730590127, Low Risk,32820,No
+1673,Sales,Sales Executive,5476,No,10,4,3,0.11504852762632187, Low Risk,32856,No
+1674,Research & Development,Laboratory Technician,2587,Yes,2,1,2,0.1819759711997579, Low Risk,15522,No
+1675,Research & Development,Laboratory Technician,2440,No,4,2,3,0.14248017380346975, Low Risk,14640,No
+1676,Sales,Manager,15972,No,3,2,3,0.05265593596593769, Low Risk,95832,No
+1677,Research & Development,Manager,15379,No,8,3,3,0.07624547388899866, Low Risk,92274,No
+1678,Sales,Sales Executive,7082,Yes,2,3,3,0.27779134342416034, Low Risk,42492,No
+1680,Sales,Sales Representative,2728,No,2,1,3,0.3263390781427149, Medium Risk,16368,No
+1681,Sales,Sales Executive,5368,Yes,6,4,3,0.13717590288037945, Low Risk,32208,No
+1682,Research & Development,Healthcare Representative,5347,No,3,3,2,0.12125801917910307, Low Risk,32082,No
+1683,Human Resources,Human Resources,3195,Yes,2,4,3,0.18944367770232604, Low Risk,19170,No
+1684,Research & Development,Laboratory Technician,3989,Yes,5,3,3,0.6559285146208748, High Risk,23934,Yes
+1687,Research & Development,Laboratory Technician,3306,No,0,3,2,0.0605606636001309, Low Risk,19836,No
+1689,Research & Development,Healthcare Representative,7005,No,4,4,3,0.08709719858936149, Low Risk,42030,No
+1691,Sales,Sales Representative,2655,Yes,9,3,3,0.22662043147033728, Low Risk,15930,Yes
+1692,Research & Development,Laboratory Technician,1393,No,1,2,3,0.7868425245239259, High Risk,8358,Yes
+1693,Research & Development,Laboratory Technician,2570,No,7,4,3,0.08950118488801763, Low Risk,15420,No
+1694,Research & Development,Research Scientist,3537,No,4,2,3,0.10901595619597941, Low Risk,21222,No
+1696,Research & Development,Laboratory Technician,3986,No,15,4,4,0.05022663408473932, Low Risk,23916,No
+1697,Research & Development,Healthcare Representative,10883,No,1,4,4,0.058973773646235926, Low Risk,65298,No
+1698,Research & Development,Laboratory Technician,2028,No,14,2,3,0.16187161568205488, Low Risk,12168,No
+1700,Sales,Sales Executive,9525,No,6,4,2,0.1488369907882813, Low Risk,57150,No
+1701,Research & Development,Research Scientist,2929,No,10,4,3,0.1687781402221329, Low Risk,17574,No
+1702,Sales,Sales Representative,2275,Yes,3,4,3,0.7126460263196635, High Risk,13650,Yes
+1703,Research & Development,Healthcare Representative,7879,Yes,8,4,3,0.052105230530535895, Low Risk,47274,No
+1704,Research & Development,Research Scientist,4930,Yes,5,4,4,0.23298104802694516, Low Risk,29580,No
+1706,Sales,Sales Executive,7847,Yes,10,4,3,0.1450527242265048, Low Risk,47082,No
+1707,Research & Development,Research Scientist,4401,No,5,3,3,0.07995522429386064, Low Risk,26406,No
+1708,Sales,Sales Executive,9241,No,10,3,3,0.14910482266969527, Low Risk,55446,No
+1709,Research & Development,Laboratory Technician,2974,No,5,3,3,0.15586262794521327, Low Risk,17844,No
+1710,Sales,Sales Representative,4502,No,13,4,2,0.13502785861066247, Low Risk,27012,No
+1712,Research & Development,Healthcare Representative,10748,No,23,3,2,0.041613278553110054, Low Risk,64488,No
+1714,Human Resources,Human Resources,1555,No,1,3,3,0.8169071912562679, High Risk,9330,Yes
+1716,Sales,Sales Executive,12936,No,23,3,1,0.729935535726041, High Risk,77616,Yes
+1718,Research & Development,Laboratory Technician,2305,No,3,3,4,0.17919275322608935, Low Risk,13830,No
+1719,Research & Development,Research Director,16704,No,21,2,3,0.06213150457839714, Low Risk,100224,No
+1720,Research & Development,Research Scientist,3433,No,5,3,2,0.28042457764226425, Low Risk,20598,No
+1721,Research & Development,Laboratory Technician,3477,No,5,3,4,0.10317962823238527, Low Risk,20862,No
+1722,Human Resources,Human Resources,6430,No,3,2,3,0.09299775854878754, Low Risk,38580,No
+1724,Research & Development,Manufacturing Director,6516,Yes,1,1,3,0.21760922462176602, Low Risk,39096,No
+1725,Research & Development,Laboratory Technician,3907,No,6,1,4,0.141008428328188, Low Risk,23442,No
+1727,Research & Development,Healthcare Representative,5562,No,10,2,3,0.09285129351187113, Low Risk,33372,No
+1728,Research & Development,Manufacturing Director,6883,No,7,3,3,0.05041928167846004, Low Risk,41298,No
+1729,Research & Development,Research Scientist,2862,No,10,4,2,0.13655220786873015, Low Risk,17172,No
+1731,Sales,Sales Executive,4978,No,1,2,1,0.13115464362735454, Low Risk,29868,No
+1732,Sales,Sales Executive,10368,Yes,10,4,2,0.1098299750931251, Low Risk,62208,No
+1733,Sales,Sales Executive,6134,Yes,2,1,3,0.198225602913056, Low Risk,36804,Yes
+1734,Sales,Sales Executive,6735,No,0,2,3,0.7221283585839268, High Risk,40410,Yes
+1735,Research & Development,Laboratory Technician,3295,No,3,2,1,0.3430811126281177, Medium Risk,19770,No
+1736,Research & Development,Manufacturing Director,5238,No,5,4,2,0.08408051161912726, Low Risk,31428,No
+1737,Research & Development,Laboratory Technician,6472,Yes,9,4,3,0.05361307351941168, Low Risk,38832,No
+1739,Sales,Sales Executive,9610,No,4,3,1,0.27339437083313706, Low Risk,57660,No
+1740,Sales,Manager,19833,No,21,2,2,0.07842224614457845, Low Risk,118998,No
+1744,Human Resources,Human Resources,9756,No,5,3,4,0.11535623298607668, Low Risk,58536,No
+1745,Research & Development,Research Scientist,4968,No,9,1,3,0.12584380206717316, Low Risk,29808,No
+1746,Human Resources,Human Resources,2145,No,2,4,3,0.16052446087988564, Low Risk,12870,No
+1747,Human Resources,Human Resources,2180,No,4,4,2,0.6298251862321219, High Risk,13080,Yes
+1749,Sales,Sales Executive,8346,No,5,3,3,0.0666748520865782, Low Risk,50076,No
+1751,Research & Development,Research Scientist,3445,No,6,4,2,0.2082783729358941, Low Risk,20670,No
+1752,Sales,Sales Representative,2760,No,2,2,3,0.7775526564417586, High Risk,16560,Yes
+1753,Research & Development,Healthcare Representative,6294,Yes,3,3,4,0.2408835121094043, Low Risk,37764,No
+1754,Sales,Sales Executive,7140,No,7,1,3,0.09729608804277853, Low Risk,42840,No
+1755,Research & Development,Research Scientist,2932,Yes,5,4,3,0.12206256772658206, Low Risk,17592,No
+1756,Sales,Sales Executive,5147,No,11,2,2,0.20112408983106558, Low Risk,30882,No
+1757,Sales,Sales Executive,4507,No,5,4,4,0.11316706966193352, Low Risk,27042,No
+1758,Sales,Sales Executive,8564,Yes,0,1,2,0.783716725468344, High Risk,51384,Yes
+1760,Research & Development,Laboratory Technician,2468,No,6,2,2,0.13856302832895592, Low Risk,14808,No
+1761,Sales,Sales Executive,8161,No,1,3,3,0.6482864312843809, High Risk,48966,Yes
+1762,Research & Development,Research Scientist,2109,No,1,1,3,0.4726637229129666, Medium Risk,12654,No
+1763,Research & Development,Healthcare Representative,5294,No,7,3,3,0.11965287298284234, Low Risk,31764,No
+1764,Research & Development,Research Scientist,2718,No,7,2,3,0.14033337627399578, Low Risk,16308,No
+1766,Research & Development,Healthcare Representative,5811,Yes,1,4,3,0.18306123038371794, Low Risk,34866,No
+1767,Research & Development,Research Scientist,2437,Yes,1,3,3,0.7253848694582408, High Risk,14622,Yes
+1768,Research & Development,Laboratory Technician,2766,No,5,2,2,0.1752582411308914, Low Risk,16596,No
+1770,Research & Development,Research Director,19038,No,1,1,3,0.14347654300045548, Low Risk,114228,No
+1771,Research & Development,Research Scientist,3055,No,9,2,2,0.08357150942975855, Low Risk,18330,No
+1772,Research & Development,Laboratory Technician,2289,No,5,1,3,0.15821044940749096, Low Risk,13734,No
+1774,Sales,Sales Executive,4001,Yes,15,3,3,0.07950417456107388, Low Risk,24006,No
+1775,Research & Development,Manufacturing Director,12965,Yes,3,3,2,0.0898042030991944, Low Risk,77790,No
+1778,Human Resources,Human Resources,3539,No,9,4,3,0.11222200818960965, Low Risk,21234,No
+1779,Sales,Sales Executive,6029,No,2,4,3,0.17121970386829552, Low Risk,36174,No
+1780,Sales,Sales Representative,2679,No,1,2,3,0.8529884657442645, High Risk,16074,Yes
+1782,Research & Development,Laboratory Technician,3702,No,5,3,3,0.06028139488902659, Low Risk,22212,No
+1783,Research & Development,Laboratory Technician,2398,Yes,1,1,3,0.8226748771513732, High Risk,14388,Yes
+1784,Sales,Sales Executive,5468,No,12,4,3,0.15144500729176516, Low Risk,32808,No
+1786,Research & Development,Manager,13116,No,2,3,3,0.08897152562295808, Low Risk,78696,No
+1787,Sales,Sales Executive,4189,No,5,2,3,0.1125059199445627, Low Risk,25134,No
+1789,Research & Development,Research Director,19328,Yes,2,4,3,0.08455541622319852, Low Risk,115968,No
+1790,Research & Development,Healthcare Representative,8321,Yes,12,1,3,0.06070618433342601, Low Risk,49926,No
+1792,Research & Development,Research Scientist,2342,Yes,5,2,2,0.65141740482403, High Risk,14052,Yes
+1794,Human Resources,Human Resources,4071,No,10,2,2,0.1182387383378816, Low Risk,24426,No
+1797,Sales,Sales Executive,5813,Yes,10,4,3,0.6590721566549521, High Risk,34878,Yes
+1798,Research & Development,Research Scientist,3143,No,10,1,3,0.07131382669906242, Low Risk,18858,No
+1799,Research & Development,Research Scientist,2044,No,5,4,4,0.15680620514841748, Low Risk,12264,No
+1800,Research & Development,Research Director,13464,No,4,3,3,0.08991259502664635, Low Risk,80784,No
+1801,Sales,Sales Executive,7991,No,2,2,3,0.2062487460826431, Low Risk,47946,No
+1802,Research & Development,Laboratory Technician,3377,No,4,1,2,0.06831751232927172, Low Risk,20262,No
+1803,Research & Development,Healthcare Representative,5538,No,0,1,2,0.13589601602043122, Low Risk,33228,No
+1804,Research & Development,Manufacturing Director,5762,No,7,4,3,0.03262577607697318, Low Risk,34572,No
+1805,Human Resources,Human Resources,2592,No,11,2,3,0.11106379643050156, Low Risk,15552,No
+1807,Research & Development,Laboratory Technician,5346,No,7,1,2,0.5331859295930791, Medium Risk,32076,Yes
+1809,Research & Development,Manufacturing Director,4213,No,10,1,1,0.5708148546042269, Medium Risk,25278,Yes
+1812,Sales,Sales Executive,4127,No,2,4,3,0.10012997593730788, Low Risk,24762,No
+1813,Research & Development,Research Scientist,2438,No,3,3,2,0.27477292695992955, Low Risk,14628,No
+1814,Research & Development,Healthcare Representative,6870,No,3,2,1,0.1645763006433069, Low Risk,41220,No
+1815,Sales,Sales Executive,10447,Yes,22,3,4,0.09585053204898085, Low Risk,62682,No
+1816,Research & Development,Manufacturing Director,9667,No,7,3,3,0.17576515680938912, Low Risk,58002,No
+1818,Human Resources,Human Resources,2148,Yes,5,2,3,0.4249181191195859, Medium Risk,12888,Yes
+1821,Research & Development,Healthcare Representative,8926,No,9,2,4,0.5697452981640345, Medium Risk,53556,Yes
+1822,Research & Development,Healthcare Representative,6513,No,5,4,3,0.05375727137739074, Low Risk,39078,No
+1823,Sales,Sales Executive,6799,No,10,3,3,0.09269044552518692, Low Risk,40794,No
+1824,Sales,Manager,16291,No,16,2,2,0.12922176515535125, Low Risk,97746,No
+1826,Research & Development,Laboratory Technician,2705,No,5,3,4,0.1575814790967487, Low Risk,16230,No
+1827,Research & Development,Manufacturing Director,10333,Yes,22,2,3,0.053608554245951456, Low Risk,61998,No
+1829,Research & Development,Healthcare Representative,4448,No,7,1,3,0.107946231714992, Low Risk,26688,No
+1830,Research & Development,Research Scientist,6854,No,7,4,2,0.11521879121326516, Low Risk,41124,No
+1833,Sales,Sales Executive,9637,No,3,1,3,0.1091820154559509, Low Risk,57822,No
+1834,Research & Development,Research Scientist,3591,No,3,1,3,0.09882123922488618, Low Risk,21546,No
+1835,Sales,Sales Representative,5405,Yes,4,4,2,0.10937557425617386, Low Risk,32430,No
+1836,Sales,Sales Executive,4684,No,5,4,3,0.09867955311324542, Low Risk,28104,No
+1837,Research & Development,Research Director,15787,Yes,2,3,3,0.10182374813827277, Low Risk,94722,No
+1839,Research & Development,Research Scientist,1514,No,0,3,1,0.584333037579471, Medium Risk,9084,No
+1842,Human Resources,Human Resources,2956,No,1,1,3,0.7954062907572478, High Risk,17736,Yes
+1844,Human Resources,Human Resources,2335,Yes,2,1,3,0.7299368579563841, High Risk,14010,Yes
+1845,Sales,Sales Executive,5154,No,8,3,4,0.1042904616632604, Low Risk,30924,No
+1847,Research & Development,Research Scientist,6962,Yes,1,2,3,0.12333298964442341, Low Risk,41772,No
+1849,Sales,Sales Executive,5675,No,7,4,3,0.09903263562896242, Low Risk,34050,No
+1850,Research & Development,Laboratory Technician,2379,Yes,5,4,2,0.22319697151785622, Low Risk,14274,No
+1852,Research & Development,Laboratory Technician,3812,No,11,4,4,0.1328353934151267, Low Risk,22872,No
+1853,Sales,Sales Executive,4648,No,0,4,4,0.2420993827539695, Low Risk,27888,No
+1854,Research & Development,Research Scientist,2936,No,6,3,2,0.1079038168029794, Low Risk,17616,No
+1856,Research & Development,Laboratory Technician,2105,No,2,3,3,0.21565695370229768, Low Risk,12630,No
+1857,Research & Development,Manufacturing Director,8578,No,9,4,2,0.07867300263475022, Low Risk,51468,No
+1858,Human Resources,Human Resources,2706,No,3,4,3,0.09331738287598704, Low Risk,16236,No
+1859,Research & Development,Healthcare Representative,6384,No,7,3,3,0.1400035788882782, Low Risk,38304,No
+1860,Research & Development,Laboratory Technician,3968,No,0,3,3,0.15943558603481775, Low Risk,23808,No
+1862,Sales,Sales Executive,9907,Yes,2,2,2,0.7603646782868124, High Risk,59442,Yes
+1863,Sales,Sales Executive,13225,No,19,1,3,0.06582180408223931, Low Risk,79350,No
+1864,Sales,Sales Representative,3540,No,9,3,3,0.16293870266593216, Low Risk,21240,No
+1865,Human Resources,Human Resources,2804,No,1,2,3,0.4585407756695279, Medium Risk,16824,No
+1866,Research & Development,Manager,19392,No,16,3,3,0.08215216652165422, Low Risk,116352,No
+1867,Research & Development,Research Director,19665,No,22,2,3,0.05598535921609949, Low Risk,117990,No
+1868,Research & Development,Research Scientist,2439,Yes,1,4,2,0.9386810961049333, High Risk,14634,Yes
+1869,Sales,Sales Executive,7314,No,8,2,3,0.548666429907669, Medium Risk,43884,Yes
+1870,Research & Development,Research Scientist,4774,No,7,1,2,0.0954323964072764, Low Risk,28644,No
+1871,Research & Development,Research Scientist,3902,No,2,4,3,0.10516671886031652, Low Risk,23412,No
+1873,Research & Development,Research Scientist,2662,No,5,4,4,0.08810307545464148, Low Risk,15972,No
+1875,Sales,Sales Representative,2856,No,1,2,3,0.3092405656702804, Medium Risk,17136,No
+1876,Sales,Sales Representative,1081,No,1,4,2,0.8898816296036679, High Risk,6486,Yes
+1878,Research & Development,Research Scientist,2472,Yes,1,2,3,0.8901924444842063, High Risk,14832,Yes
+1880,Sales,Sales Executive,5673,Yes,10,3,3,0.10395061374200665, Low Risk,34038,No
+1881,Research & Development,Laboratory Technician,4197,No,10,3,3,0.18164067703790393, Low Risk,25182,No
+1882,Sales,Sales Executive,9713,Yes,5,4,3,0.22360803947291813, Low Risk,58278,No
+1883,Research & Development,Laboratory Technician,2062,No,3,1,3,0.22345377312874617, Low Risk,12372,No
+1885,Research & Development,Research Scientist,4284,Yes,5,1,3,0.11893320474267272, Low Risk,25704,No
+1886,Research & Development,Manufacturing Director,4788,Yes,3,2,3,0.16848451368195647, Low Risk,28728,No
+1888,Research & Development,Manufacturing Director,5906,No,9,4,2,0.09343904860141224, Low Risk,35436,No
+1890,Human Resources,Human Resources,3886,No,10,4,2,0.11643700277134837, Low Risk,23316,No
+1892,Research & Development,Manager,16823,No,19,1,3,0.04908271536658436, Low Risk,100938,No
+1893,Research & Development,Research Scientist,2933,Yes,1,3,2,0.5397563734466084, Medium Risk,17598,No
+1898,Sales,Sales Executive,6500,No,8,3,2,0.18925617247099272, Low Risk,39000,No
+1900,Research & Development,Manager,17174,No,22,4,3,0.09205631841763091, Low Risk,103044,No
+1903,Research & Development,Healthcare Representative,5033,No,2,1,3,0.1156635589244532, Low Risk,30198,No
+1905,Research & Development,Research Scientist,2307,Yes,5,1,3,0.7218020426692958, High Risk,13842,Yes
+1907,Research & Development,Laboratory Technician,2587,No,4,4,3,0.6471580997890171, High Risk,15522,Yes
+1908,Sales,Sales Executive,5507,No,4,2,1,0.23735013294819393, Low Risk,33042,No
+1909,Sales,Sales Executive,4393,No,5,2,3,0.14543068106405546, Low Risk,26358,No
+1911,Research & Development,Research Director,13348,No,13,1,4,0.040871534589746024, Low Risk,80088,No
+1912,Sales,Sales Executive,6583,Yes,5,4,3,0.10225589376153696, Low Risk,39498,No
+1915,Sales,Sales Executive,8103,Yes,4,4,2,0.14108353111136723, Low Risk,48618,No
+1916,Research & Development,Laboratory Technician,3978,No,2,3,2,0.19746499760590827, Low Risk,23868,No
+1918,Research & Development,Laboratory Technician,2544,No,7,4,3,0.11281641239910929, Low Risk,15264,No
+1922,Research & Development,Healthcare Representative,5399,No,4,3,3,0.06899933205796639, Low Risk,32394,No
+1924,Sales,Sales Executive,5487,No,10,3,2,0.12944926260391998, Low Risk,32922,No
+1927,Sales,Sales Executive,6834,Yes,7,4,3,0.12995088184077003, Low Risk,41004,No
+1928,Sales,Sales Representative,1091,No,1,1,3,0.8788401820883558, High Risk,6546,Yes
+1929,Sales,Sales Executive,5736,No,3,3,3,0.19412162857774232, Low Risk,34416,No
+1931,Research & Development,Research Scientist,2226,No,5,2,2,0.14894628450980968, Low Risk,13356,No
+1932,Research & Development,Research Scientist,5747,Yes,15,4,3,0.10900992380855039, Low Risk,34482,No
+1933,Sales,Sales Executive,9854,Yes,2,3,3,0.7316647061288141, High Risk,59124,Yes
+1934,Research & Development,Research Scientist,5467,No,8,2,4,0.10645278160273099, Low Risk,32802,No
+1935,Sales,Sales Executive,5380,No,0,1,3,0.16727262824093855, Low Risk,32280,No
+1936,Research & Development,Manufacturing Director,5151,No,10,1,3,0.09038891076340082, Low Risk,30906,No
+1937,Research & Development,Research Scientist,2133,Yes,20,2,3,0.07715619111441269, Low Risk,12798,No
+1938,Sales,Manager,17875,Yes,1,4,2,0.08917028389465813, Low Risk,107250,No
+1939,Research & Development,Research Scientist,2432,Yes,4,3,3,0.706758402198679, High Risk,14592,Yes
+1940,Research & Development,Research Scientist,4771,No,5,4,4,0.05027329884236848, Low Risk,28626,No
+1941,Research & Development,Research Director,19161,No,5,4,3,0.030629368401149822, Low Risk,114966,No
+1943,Sales,Sales Executive,5087,Yes,0,4,3,0.11965579884914247, Low Risk,30522,No
+1944,Human Resources,Human Resources,2863,No,1,2,3,0.8234948556715104, High Risk,17178,Yes
+1945,Sales,Sales Executive,5561,No,5,1,1,0.11080066780156106, Low Risk,33366,No
+1947,Research & Development,Research Scientist,2144,No,5,3,2,0.11586134590388979, Low Risk,12864,No
+1948,Research & Development,Research Scientist,3065,Yes,4,1,4,0.17509228459916024, Low Risk,18390,No
+1949,Research & Development,Laboratory Technician,2810,No,5,2,3,0.22633559904998196, Low Risk,16860,No
+1950,Sales,Sales Executive,9888,No,14,4,2,0.22941246473247134, Low Risk,59328,No
+1951,Sales,Sales Executive,8628,No,8,3,2,0.11034161990633878, Low Risk,51768,No
+1952,Research & Development,Laboratory Technician,2867,No,7,1,2,0.13910769776515658, Low Risk,17202,No
+1954,Research & Development,Healthcare Representative,5373,No,5,1,2,0.08826846917224554, Low Risk,32238,No
+1955,Research & Development,Healthcare Representative,6667,No,5,4,3,0.07585756260064548, Low Risk,40002,No
+1956,Research & Development,Research Scientist,5003,No,10,1,3,0.20260220844254065, Low Risk,30018,No
+1960,Research & Development,Laboratory Technician,2367,No,4,4,2,0.6720402946139843, High Risk,14202,Yes
+1961,Sales,Sales Representative,2858,No,1,1,2,0.40070698350308703, Medium Risk,17148,No
+1962,Sales,Sales Executive,5204,Yes,10,4,3,0.10500606539258735, Low Risk,31224,No
+1965,Sales,Sales Executive,4105,No,7,4,3,0.11038726571174472, Low Risk,24630,No
+1966,Research & Development,Manufacturing Director,9679,No,1,4,3,0.13042949677275278, Low Risk,58074,No
+1967,Sales,Sales Executive,5617,Yes,10,4,3,0.6451933521926072, High Risk,33702,Yes
+1968,Sales,Sales Executive,10448,Yes,2,1,2,0.7279152118208093, High Risk,62688,Yes
+1969,Research & Development,Research Scientist,2897,No,4,3,2,0.13328864497717707, Low Risk,17382,No
+1970,Research & Development,Healthcare Representative,5968,No,9,3,3,0.08163750708268669, Low Risk,35808,No
+1971,Research & Development,Healthcare Representative,7510,No,10,3,3,0.16882505887107804, Low Risk,45060,No
+1972,Human Resources,Human Resources,2991,Yes,6,2,3,0.14120482023325895, Low Risk,17946,No
+1973,Human Resources,Manager,19636,Yes,10,2,3,0.11981508539908019, Low Risk,117816,No
+1974,Research & Development,Laboratory Technician,1129,Yes,1,4,3,0.4244935565645158, Medium Risk,6774,No
+1975,Sales,Sales Executive,13341,No,20,1,3,0.16522432775408505, Low Risk,80046,No
+1976,Research & Development,Research Scientist,4332,No,20,3,3,0.042211469844314696, Low Risk,25992,No
+1979,Research & Development,Research Director,11031,No,11,3,4,0.07565242091204304, Low Risk,66186,No
+1980,Research & Development,Manufacturing Director,4440,Yes,5,1,3,0.1308085041608663, Low Risk,26640,No
+1981,Research & Development,Healthcare Representative,4617,No,4,3,2,0.10339469662987552, Low Risk,27702,No
+1982,Research & Development,Laboratory Technician,2647,No,5,4,4,0.12474743920818543, Low Risk,15882,No
+1985,Research & Development,Laboratory Technician,6323,No,10,3,4,0.11787955835019014, Low Risk,37938,No
+1986,Sales,Sales Executive,5677,No,11,2,3,0.07555169160334205, Low Risk,34062,No
+1987,Human Resources,Human Resources,2187,No,2,2,3,0.21564054846902728, Low Risk,13122,No
+1989,Research & Development,Laboratory Technician,3748,No,12,2,2,0.08718246099470287, Low Risk,22488,No
+1992,Research & Development,Laboratory Technician,3977,Yes,2,3,2,0.2040617691964681, Low Risk,23862,No
+1993,Research & Development,Healthcare Representative,8633,No,17,3,3,0.09934111036408781, Low Risk,51798,No
+1994,Research & Development,Laboratory Technician,2008,No,1,3,2,0.15716162293845304, Low Risk,12048,No
+1995,Sales,Sales Executive,4440,No,15,2,3,0.07208257133593961, Low Risk,26640,No
+1996,Sales,Sales Representative,3067,No,2,3,3,0.12547837943038165, Low Risk,18402,No
+1997,Research & Development,Manufacturing Director,5321,No,8,3,3,0.11700984962505662, Low Risk,31926,No
+1998,Research & Development,Research Scientist,5410,Yes,4,1,2,0.11973764070970272, Low Risk,32460,No
+1999,Research & Development,Research Scientist,2782,No,5,4,3,0.13084485010751373, Low Risk,16692,No
+2000,Research & Development,Research Director,11957,No,13,2,1,0.05367688077238769, Low Risk,71742,No
+2003,Research & Development,Laboratory Technician,2660,Yes,2,3,3,0.1237676707588014, Low Risk,15960,No
+2007,Research & Development,Research Scientist,3375,No,3,3,4,0.08193198046447195, Low Risk,20250,No
+2008,Research & Development,Research Scientist,5098,No,10,3,3,0.08282055212448004, Low Risk,30588,No
+2009,Research & Development,Healthcare Representative,4878,Yes,9,4,3,0.11328822933956832, Low Risk,29268,No
+2010,Research & Development,Laboratory Technician,2837,No,6,2,3,0.24643383012745937, Low Risk,17022,No
+2012,Research & Development,Laboratory Technician,2406,No,1,4,2,0.2084210846842041, Low Risk,14436,No
+2013,Sales,Sales Representative,2269,No,2,2,3,0.13570374753265443, Low Risk,13614,No
+2014,Research & Development,Research Scientist,4108,No,7,4,3,0.12836068682476978, Low Risk,24648,No
+2015,Research & Development,Research Director,13206,No,18,3,3,0.055093725380809665, Low Risk,79236,No
+2016,Sales,Sales Executive,10422,No,14,4,3,0.09054221219893081, Low Risk,62532,No
+2017,Research & Development,Research Director,13744,Yes,16,4,3,0.06677530618731399, Low Risk,82464,No
+2018,Sales,Sales Executive,4907,Yes,5,3,2,0.1452622365814863, Low Risk,29442,No
+2019,Sales,Sales Representative,3482,No,9,4,2,0.19672160262915755, Low Risk,20892,No
+2020,Research & Development,Research Scientist,2436,Yes,4,4,3,0.20417800987833393, Low Risk,14616,No
+2021,Sales,Sales Representative,2380,Yes,2,1,3,0.27569237847556705, Low Risk,14280,No
+2022,Research & Development,Manager,19431,No,6,4,2,0.03443475222881984, Low Risk,116586,No
+2023,Sales,Sales Representative,1790,No,1,1,2,0.8266925318100831, High Risk,10740,Yes
+2024,Sales,Sales Executive,7644,No,9,4,3,0.08201458288680336, Low Risk,45864,No
+2025,Research & Development,Manufacturing Director,5131,No,4,2,3,0.13592665771786425, Low Risk,30786,No
+2026,Research & Development,Healthcare Representative,6306,No,13,3,2,0.042809464690713096, Low Risk,37836,No
+2027,Research & Development,Research Scientist,4787,Yes,2,4,4,0.2207088555297024, Low Risk,28722,Yes
+2031,Research & Development,Manager,18880,No,22,3,2,0.09706470208469971, Low Risk,113280,No
+2032,Research & Development,Laboratory Technician,2339,No,10,3,1,0.6658981129852138, High Risk,14034,Yes
+2034,Research & Development,Manufacturing Director,13570,No,20,2,3,0.08311548118513348, Low Risk,81420,No
+2035,Sales,Sales Executive,6712,No,8,3,3,0.12814582584999923, Low Risk,40272,No
+2036,Sales,Sales Executive,5406,No,15,4,2,0.164830874723964, Low Risk,32436,No
+2037,Sales,Sales Executive,8938,No,5,2,3,0.10841566358907179, Low Risk,53628,No
+2038,Research & Development,Research Scientist,2439,No,4,1,3,0.20034811689200538, Low Risk,14634,No
+2040,Human Resources,Human Resources,8837,Yes,9,4,3,0.20590619524412607, Low Risk,53022,No
+2041,Sales,Sales Executive,5343,No,10,4,3,0.1978318545420511, Low Risk,32058,No
+2044,Sales,Sales Executive,6728,No,6,3,3,0.5981321292118856, Medium Risk,40368,Yes
+2045,Sales,Sales Executive,6652,No,6,4,2,0.16480427829885422, Low Risk,39912,No
+2046,Sales,Sales Executive,4850,No,5,3,3,0.2528226515340113, Low Risk,29100,No
+2048,Research & Development,Research Scientist,2809,No,2,3,3,0.0841165957649488, Low Risk,16854,No
+2049,Research & Development,Healthcare Representative,5689,Yes,10,3,4,0.09826412596066932, Low Risk,34134,No
+2051,Research & Development,Research Scientist,2001,No,5,3,3,0.08771550086221708, Low Risk,12006,No
+2052,Research & Development,Research Scientist,2977,No,4,4,3,0.15661481720350331, Low Risk,17862,No
+2053,Research & Development,Laboratory Technician,4025,Yes,4,2,3,0.2041845750213115, Low Risk,24150,No
+2054,Research & Development,Research Scientist,3785,No,5,1,1,0.22419514111774927, Low Risk,22710,No
+2055,Sales,Sales Executive,10854,Yes,3,1,3,0.6840247353248543, High Risk,65124,Yes
+2056,Sales,Sales Executive,12031,No,20,4,2,0.18116167305907843, Low Risk,72186,No
+2057,Research & Development,Manufacturing Director,9936,No,9,1,3,0.10363967697085705, Low Risk,59616,No
+2060,Sales,Sales Representative,2966,No,4,3,3,0.16417420633153065, Low Risk,17796,No
+2061,Research & Development,Laboratory Technician,2571,No,5,4,3,0.1099000095318672, Low Risk,15426,No
+2062,Research & Development,Healthcare Representative,9991,No,7,1,3,0.11019981001908086, Low Risk,59946,No
+2064,Research & Development,Manufacturing Director,6142,Yes,6,2,3,0.1546161923633669, Low Risk,36852,No
+2065,Sales,Sales Executive,5390,No,9,2,2,0.14002423147554283, Low Risk,32340,No
+2068,Research & Development,Laboratory Technician,4404,No,4,3,4,0.19255249049106957, Low Risk,26424,No

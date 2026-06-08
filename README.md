@@ -163,7 +163,7 @@ Employees earning <$3,000/month have 28.6% attrition vs 8.9% for top earners. A 
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/employee-attrition-hr-analytics.git
+git clone https://github.com/KiskuAryan/employee-attrition-hr-analytics.git
 cd employee-attrition-hr-analytics
 ```
 
